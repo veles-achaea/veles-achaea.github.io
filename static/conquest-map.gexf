@@ -16,7 +16,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-415.86392" y="-252.43979"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Mhojave Desert, the (Central)" label="Mhojave">
         <attvalues>
@@ -24,7 +24,7 @@
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-456.34305" y="-225.15671"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Southern Wilderness" label="Southern Wilderness">
         <attvalues>
@@ -32,7 +32,7 @@
         </attvalues>
         <viz:size value="10.333334"/>
         <viz:position x="37.984085" y="35.81664"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="1" label="Moghedu">
         <attvalues>
@@ -40,7 +40,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-471.53256" y="-270.96753"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Ruins of the Erisian Pyramid" label="Erisian Pyramid">
         <attvalues>
@@ -48,7 +48,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-401.1484" y="-209.92174"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Savannah, the (Central)" label="Savannah">
         <attvalues>
@@ -56,7 +56,7 @@
         </attvalues>
         <viz:size value="13.666667"/>
         <viz:position x="-579.27716" y="-17.842434"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="Zaphar River, the" label="Zaphar">
         <attvalues>
@@ -64,7 +64,7 @@
         </attvalues>
         <viz:size value="8.0"/>
         <viz:position x="-2.1917028" y="313.63992"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="Adryn's Keep" label="Adryn's Keep">
         <attvalues>
@@ -72,7 +72,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="130.3213" y="180.1496"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#ff0"/>
       </node>
       <node id="Central Wilderness" label="Central Wilderness">
         <attvalues>
@@ -80,7 +80,7 @@
         </attvalues>
         <viz:size value="15.0"/>
         <viz:position x="-199.32928" y="245.6358"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="Delos, the Isle of" label="Delos">
         <attvalues>
@@ -88,7 +88,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-48.13593" y="238.08047"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Eastern Ithmia, the" label="Eastern Ithmia">
         <attvalues>
@@ -96,7 +96,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="47.600544" y="357.64267"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="Eastern Reaches" label="Eastern Reaches">
         <attvalues>
@@ -104,7 +104,7 @@
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="156.08592" y="140.21864"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Northern Ithmia, the" label="Northern Ithmia">
         <attvalues>
@@ -112,7 +112,7 @@
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-4.561714" y="390.56317"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="Peshwar Delta" label="Peshwar Delta">
         <attvalues>
@@ -120,7 +120,7 @@
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-83.11102" y="-59.34764"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#ff0"/>
       </node>
       <node id="Western Ithmia, the" label="Western Ithmia">
         <attvalues>
@@ -128,7 +128,7 @@
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-88.93239" y="366.82654"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="2" label="Digsite of Husks">
         <attvalues>
@@ -136,7 +136,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-484.95953" y="-326.15353"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Sangre Plains, the" label="Sangre Plains">
         <attvalues>
@@ -144,7 +144,7 @@
         </attvalues>
         <viz:size value="8.0"/>
         <viz:position x="-530.92426" y="391.73462"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color hex="#909"/>
       </node>
       <node id="Muurn Lake" label="Muurn Lake">
         <attvalues>
@@ -152,7 +152,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-583.80615" y="-632.59094"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Cyrene, the City of" label="Cyrene">
         <attvalues>
@@ -160,7 +160,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-491.86047" y="-619.10913"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Muurn River Valley" label="Muurn River Valley">
         <attvalues>
@@ -168,7 +168,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-664.7709" y="-591.7218"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Mhaldor Isle" label="Mhaldor Isle">
         <attvalues>
@@ -176,7 +176,7 @@
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-1011.4326" y="0.8718147"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#f00"/>
       </node>
       <node id="Isle of New Hope" label="Isle of New Hope">
         <attvalues>
@@ -184,7 +184,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-60.703552" y="-142.1524"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Pachacacha River, the" label="Pachacacha River">
         <attvalues>
@@ -192,7 +192,7 @@
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-363.5908" y="-99.868195"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color hex="#ff0"/>
       </node>
       <node id="Aerinewild, the" label="Aerinewild">
         <attvalues>
@@ -200,7 +200,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-627.7394" y="78.642944"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Aureliana Forest, the" label="Aureliana Forest">
         <attvalues>
@@ -208,7 +208,7 @@
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-572.31177" y="59.81111"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="Bitterfork" label="Bitterfork">
         <attvalues>
@@ -216,7 +216,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-426.74857" y="661.5322"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Dardanic Plains, the" label="Dardanic Plains">
         <attvalues>
@@ -224,7 +224,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-350.42255" y="623.3632"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Vashnar Mountains, the" label="Vashnar Mountains">
         <attvalues>
@@ -232,7 +232,7 @@
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-674.5479" y="-291.92368"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Aalen Forest, the" label="Aalen Forest">
         <attvalues>
@@ -240,7 +240,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-686.1001" y="-456.76086"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Dakhota Hills, the" label="Dakhota Hills">
         <attvalues>
@@ -248,7 +248,7 @@
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-574.91473" y="-126.05391"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Dun Valley" label="Dun Valley">
         <attvalues>
@@ -256,7 +256,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-619.07086" y="-312.49094"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Thraasi Foothills" label="Thraasi Foothills">
         <attvalues>
@@ -264,7 +264,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-741.473" y="-346.78296"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Hashan, the City of" label="Hashan">
         <attvalues>
@@ -272,7 +272,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="30.747406" y="436.81546"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Shamtota Hills, the (West)" label="Shamtota Hills">
         <attvalues>
@@ -280,7 +280,7 @@
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-319.15173" y="-164.16313"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#909"/>
       </node>
       <node id="Granite Hills, the" label="Granite Hills">
         <attvalues>
@@ -288,7 +288,7 @@
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-434.8495" y="519.0782"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Northern Plains" label="Northern Plains">
         <attvalues>
@@ -296,7 +296,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-232.59511" y="539.9448"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Northern Wilderness" label="Northern Wilderness">
         <attvalues>
@@ -304,7 +304,7 @@
         </attvalues>
         <viz:size value="10.333334"/>
         <viz:position x="-163.00844" y="492.64102"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Urubamba River, the" label="Urubamba River">
         <attvalues>
@@ -312,7 +312,7 @@
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-522.8408" y="133.4397"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color hex="#909"/>
       </node>
       <node id="Shastaan" label="Shastaan">
         <attvalues>
@@ -320,7 +320,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="227.83476" y="70.061005"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#ff0"/>
       </node>
       <node id="Eastern Shore, the" label="Eastern Shore">
         <attvalues>
@@ -328,7 +328,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="236.98518" y="185.07915"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Maim's Mansion" label="Maim's Mansion">
         <attvalues>
@@ -336,7 +336,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-743.46747" y="268.73203"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="New Thera, the Village of" label="New Thera">
         <attvalues>
@@ -344,7 +344,7 @@
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-687.548" y="205.72777"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Vashnar Mountains, the (North)" label="N. Vashnar Mountains">
         <attvalues>
@@ -352,7 +352,7 @@
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-932.8044" y="8.320282"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Nimick, the Village of" label="Nimick">
         <attvalues>
@@ -360,7 +360,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-154.23976" y="-54.418045"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Eastern Wilderness" label="Eastern Wilderness">
         <attvalues>
@@ -368,7 +368,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="194.57164" y="273.55923"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Excised Ruins of Targossas" label="Ex. Targossas">
         <attvalues>
@@ -376,7 +376,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="156.67372" y="94.09471"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Siroccian Mountains, the" label="Siroccian Mountains">
         <attvalues>
@@ -384,7 +384,7 @@
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-88.68134" y="77.42571"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#ff0"/>
       </node>
       <node id="Dwarven Camp" label="Dwarven Camp">
         <attvalues>
@@ -392,7 +392,7 @@
         </attvalues>
         <viz:size value="5.3333335"/>
         <viz:position x="-189.24277" y="30.180481"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Orcish Outpost" label="Orcish Outpost">
         <attvalues>
@@ -400,7 +400,7 @@
         </attvalues>
         <viz:size value="5.3333335"/>
         <viz:position x="-197.15558" y="68.758965"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Pash Valley (East)" label="Pash Valley">
         <attvalues>
@@ -408,7 +408,7 @@
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-272.4786" y="-252.21877"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#ff0"/>
       </node>
       <node id="Bagwar's Copse" label="Bagwar's Copse">
         <attvalues>
@@ -416,7 +416,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-77.58341" y="311.4773"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Lake Narcisse" label="Lake Narcisse">
         <attvalues>
@@ -424,7 +424,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-141.77342" y="386.71976"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="Jaru" label="Jaru">
         <attvalues>
@@ -432,7 +432,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-224.75545" y="-317.83588"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
@@ -440,7 +440,7 @@
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-346.71875" y="-420.96933"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Targossas" label="Targossas">
         <attvalues>
@@ -448,7 +448,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-159.34981" y="-274.01694"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#ff0"/>
       </node>
       <node id="Tomacula" label="Tomacula">
         <attvalues>
@@ -456,7 +456,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-504.56995" y="-20.873798"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Creville Asylum" label="Creville Asylum">
         <attvalues>
@@ -464,7 +464,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-977.6183" y="68.9619"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Harae, the Isle of" label="Harae">
         <attvalues>
@@ -472,7 +472,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-926.814" y="-38.276638"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Xhaiden Dale" label="Xhaiden Dale">
         <attvalues>
@@ -480,7 +480,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-894.2924" y="72.69438"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Azdun Dungeon, the" label="Azdun Dungeon">
         <attvalues>
@@ -488,7 +488,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-574.91473" y="-181.76726"/>
-        <viz:color r="128" g="0" b="0"/>
+        <viz:color hex="#900"/>
       </node>
       <node id="Azdun Catacombs" label="Azdun Catacombs">
         <attvalues>
@@ -496,7 +496,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-574.91473" y="-215.66827"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Riparium" label="Riparium">
         <attvalues>
@@ -504,7 +504,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="296.2639" y="271.58774"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Belladona, the Keep of" label="Belladona's Keep">
         <attvalues>
@@ -512,7 +512,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-196.67606" y="603.7727"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Northreach, the" label="Northreach">
         <attvalues>
@@ -520,7 +520,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-325.1175" y="738.93195"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Sunderlands" label="Sunderlands">
         <attvalues>
@@ -528,7 +528,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-54.379265" y="459.5459"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Eleusis" label="Eleusis">
         <attvalues>
@@ -536,7 +536,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="104.24043" y="301.06525"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="Saiha'balan Grotto" label="Saiha'balan Grotto">
         <attvalues>
@@ -544,7 +544,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-622.9965" y="-423.46265"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Lake Vundamere" label="Lake Vundamere">
         <attvalues>
@@ -552,7 +552,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-499.6231" y="7.6797256"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#f00"/>
       </node>
       <node id="Eastern Road, the" label="Eastern Road">
         <attvalues>
@@ -560,7 +560,7 @@
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="174.30797" y="441.13156"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Manusha" label="Manusha">
         <attvalues>
@@ -568,7 +568,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="242.97891" y="489.5004"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Enverren Marsh" label="Enverren Marsh">
         <attvalues>
@@ -576,7 +576,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="293.0304" y="530.2331"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Darkenwood, the" label="Darkenwood">
         <attvalues>
@@ -584,7 +584,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-441.94684" y="776.76086"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Quartz Peak" label="Quartz Peak">
         <attvalues>
@@ -592,7 +592,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-178.84926" y="-542.79486"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Vashnar Mountains, the (South)" label="S. Vashnar Mountains">
         <attvalues>
@@ -600,7 +600,7 @@
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-254.27594" y="-526.094"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Kasmarkin, the City of" label="Kasmarkin">
         <attvalues>
@@ -608,7 +608,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-364.2913" y="-12.609581"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Mannaseh swamp" label="Mannaseh swamp">
         <attvalues>
@@ -616,7 +616,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-343.28995" y="-50.368725"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#909"/>
       </node>
       <node id="Digsite of War" label="Digsite of War">
         <attvalues>
@@ -624,7 +624,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-303.33124" y="-26.009544"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Aurick Manor" label="Aurick Manor">
         <attvalues>
@@ -632,7 +632,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="165.78535" y="637.43835"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Tasur'ke" label="Tasur'ke">
         <attvalues>
@@ -640,7 +640,7 @@
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="139.18385" y="575.7084"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color hex="#990"/>
       </node>
       <node id="Ka'doloki, the Village of" label="Ka'doloki">
         <attvalues>
@@ -648,7 +648,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-683.12354" y="-631.0223"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Blackrock, the Halls of" label="Blackrock Halls">
         <attvalues>
@@ -656,7 +656,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-1008.67377" y="-56.750652"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#f00"/>
       </node>
       <node id="Mhaldor, the City of" label="Mhaldor">
         <attvalues>
@@ -664,7 +664,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1092.3799" y="40.43073"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#f00"/>
       </node>
       <node id="Underground Lake" label="Underground Lake">
         <attvalues>
@@ -672,7 +672,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-1101.0737" y="-48.88777"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Mesmerium, the" label="Mesmerium">
         <attvalues>
@@ -680,7 +680,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-378.0799" y="176.78531"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="Genji, the Village of" label="Genji">
         <attvalues>
@@ -688,7 +688,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-330.01202" y="-494.50873"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Rhodestrian Settlement" label="Rhodestrian Settlement">
         <attvalues>
@@ -696,7 +696,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-327.90567" y="-567.2984"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Sea Lion Cove" label="Sea Lion Cove">
         <attvalues>
@@ -704,7 +704,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-248.1854" y="-637.24927"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Goblin Village, the" label="Goblin Village">
         <attvalues>
@@ -712,7 +712,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-544.6086" y="-94.34428"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Tir Murann" label="Tir Murann">
         <attvalues>
@@ -720,7 +720,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-519.6964" y="-145.6647"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Black Forest, the" label="Black Forest">
         <attvalues>
@@ -728,7 +728,7 @@
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-679.64966" y="99.55496"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="Shala'jen, the Monastery of" label="Shala'jen">
         <attvalues>
@@ -736,7 +736,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-192.51485" y="-228.86105"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Halls of Battle" label="Halls of Battle">
         <attvalues>
@@ -744,7 +744,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-560.83203" y="448.4489"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#909"/>
       </node>
       <node id="Theran Underground" label="Theran Underground">
         <attvalues>
@@ -752,7 +752,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-740.59314" y="165.97923"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Cyrene Road" label="Cyrene Road">
         <attvalues>
@@ -760,7 +760,7 @@
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-418.38538" y="-539.1007"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color hex="#099"/>
       </node>
       <node id="Actar, the Valley of" label="Actar">
         <attvalues>
@@ -768,7 +768,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-436.35226" y="-495.1276"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Chapel of All Gods" label="Chapel of All Gods">
         <attvalues>
@@ -776,7 +776,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-289.60974" y="272.04535"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Petra, the Village of" label="Petra">
         <attvalues>
@@ -784,7 +784,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-428.59283" y="446.23752"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color hex="#909"/>
       </node>
       <node id="Bog of Ashtan" label="Bog of Ashtan">
         <attvalues>
@@ -792,7 +792,7 @@
         </attvalues>
         <viz:size value="7.333333"/>
         <viz:position x="-352.79562" y="370.7901"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color hex="#909"/>
       </node>
       <node id="Den of the quisalis" label="Den of the Quisalis">
         <attvalues>
@@ -800,7 +800,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-788.1346" y="119.10064"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Green Lake" label="Green Lake">
         <attvalues>
@@ -808,7 +808,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-199.32928" y="199.81621"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#f00"/>
       </node>
       <node id="Qurnok, the Village of" label="Qurnok">
         <attvalues>
@@ -816,7 +816,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-199.32928" y="156.66878"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color hex="#909"/>
       </node>
       <node id="Ashtan, the City of" label="Ashtan">
         <attvalues>
@@ -824,7 +824,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-341.30396" y="434.60272"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color hex="#909"/>
       </node>
       <node id="Forest Watch" label="Forest Watch">
         <attvalues>
@@ -832,7 +832,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="75.42052" y="398.27835"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="Piraeus, Mount" label="Piraeus">
         <attvalues>
@@ -840,7 +840,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-430.1645" y="-456.61987"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="4" label="Beastlords">
         <attvalues>
@@ -848,7 +848,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-679.3212" y="29.131367"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#0f0"/>
       </node>
       <node id="7" label="Caer Witrin">
         <attvalues>
@@ -856,7 +856,7 @@
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-478.89038" y="-515.7915"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color hex="#ccc"/>
       </node>
       <node id="9" label="E. Pachacacha">
         <attvalues>
@@ -864,7 +864,7 @@
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-229.75116" y="-139.5438"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#ff0"/>
       </node>
       <node id="11" label="S. Zaphar">
         <attvalues>
@@ -872,7 +872,7 @@
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="10.889469" y="172.47145"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color hex="#990"/>
       </node>
     </nodes>
     <edges>
