@@ -28,7 +28,7 @@
       </node>
       <node id="Southern Wilderness" label="Southern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="10.333334"/>
         <viz:position x="37.984085" y="35.81664"/>
@@ -52,7 +52,7 @@
       </node>
       <node id="Savannah, the (Central)" label="Savannah">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="13.666667"/>
         <viz:position x="-579.27716" y="-17.842434"/>
@@ -100,7 +100,7 @@
       </node>
       <node id="Eastern Reaches" label="Eastern Reaches">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="156.08592" y="140.21864"/>
@@ -188,7 +188,7 @@
       </node>
       <node id="Pachacacha River, the" label="Pachacacha River">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-363.5908" y="-99.868195"/>
@@ -204,7 +204,7 @@
       </node>
       <node id="Aureliana Forest, the" label="Aureliana Forest">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-572.31177" y="59.81111"/>
@@ -276,7 +276,7 @@
       </node>
       <node id="Shamtota Hills, the (West)" label="Shamtota Hills">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-319.15173" y="-164.16313"/>
@@ -324,7 +324,7 @@
       </node>
       <node id="Eastern Shore, the" label="Eastern Shore">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="236.98518" y="185.07915"/>
@@ -340,7 +340,7 @@
       </node>
       <node id="New Thera, the Village of" label="New Thera">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-687.548" y="205.72777"/>
@@ -348,7 +348,7 @@
       </node>
       <node id="Vashnar Mountains, the (North)" label="N. Vashnar Mountains">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-932.8044" y="8.320282"/>
@@ -356,7 +356,7 @@
       </node>
       <node id="Nimick, the Village of" label="Nimick">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-154.23976" y="-54.418045"/>
@@ -364,7 +364,7 @@
       </node>
       <node id="Eastern Wilderness" label="Eastern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="194.57164" y="273.55923"/>
@@ -420,7 +420,7 @@
       </node>
       <node id="Lake Narcisse" label="Lake Narcisse">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-141.77342" y="386.71976"/>
@@ -428,7 +428,7 @@
       </node>
       <node id="Jaru" label="Jaru">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-224.75545" y="-317.83588"/>
@@ -436,7 +436,7 @@
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-346.71875" y="-420.96933"/>
@@ -452,7 +452,7 @@
       </node>
       <node id="Tomacula" label="Tomacula">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-504.56995" y="-20.873798"/>
@@ -460,7 +460,7 @@
       </node>
       <node id="Creville Asylum" label="Creville Asylum">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-977.6183" y="68.9619"/>
@@ -468,7 +468,7 @@
       </node>
       <node id="Harae, the Isle of" label="Harae">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-926.814" y="-38.276638"/>
@@ -500,7 +500,7 @@
       </node>
       <node id="Riparium" label="Riparium">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="296.2639" y="271.58774"/>
@@ -548,7 +548,7 @@
       </node>
       <node id="Lake Vundamere" label="Lake Vundamere">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-499.6231" y="7.6797256"/>
@@ -588,7 +588,7 @@
       </node>
       <node id="Quartz Peak" label="Quartz Peak">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-178.84926" y="-542.79486"/>
@@ -612,7 +612,7 @@
       </node>
       <node id="Mannaseh swamp" label="Mannaseh swamp">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-343.28995" y="-50.368725"/>
@@ -668,7 +668,7 @@
       </node>
       <node id="Underground Lake" label="Underground Lake">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-1101.0737" y="-48.88777"/>
@@ -676,7 +676,7 @@
       </node>
       <node id="Mesmerium, the" label="Mesmerium">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-378.0799" y="176.78531"/>
@@ -740,7 +740,7 @@
       </node>
       <node id="Halls of Battle" label="Halls of Battle">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-560.83203" y="448.4489"/>
@@ -772,7 +772,7 @@
       </node>
       <node id="Chapel of All Gods" label="Chapel of All Gods">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-289.60974" y="272.04535"/>
@@ -844,7 +844,7 @@
       </node>
       <node id="4" label="Beastlords">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-679.3212" y="29.131367"/>
@@ -868,7 +868,7 @@
       </node>
       <node id="11" label="S. Zaphar">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="10.889469" y="172.47145"/>
