@@ -656,7 +656,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-1008.67377" y="-56.750652"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color hex="#ff0000"/>
       </node>
       <node id="Mhaldor, the City of" label="Mhaldor">
         <attvalues>
