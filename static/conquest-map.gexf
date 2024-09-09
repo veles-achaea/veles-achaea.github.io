@@ -236,11 +236,11 @@
       </node>
       <node id="Aalen Forest, the" label="Aalen Forest">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-686.1001" y="-456.76086"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Dakhota Hills, the" label="Dakhota Hills">
         <attvalues>
