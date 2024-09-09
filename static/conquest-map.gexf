@@ -316,11 +316,11 @@
       </node>
       <node id="Shastaan" label="Shastaan">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="227.83476" y="70.061005"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Eastern Shore, the" label="Eastern Shore">
         <attvalues>
@@ -668,11 +668,11 @@
       </node>
       <node id="Underground Lake" label="Underground Lake">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-1101.0737" y="-48.88777"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Mesmerium, the" label="Mesmerium">
         <attvalues>
