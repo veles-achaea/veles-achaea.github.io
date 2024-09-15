@@ -772,11 +772,11 @@
       </node>
       <node id="Chapel of All Gods" label="Chapel of All Gods">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-289.60974" y="272.04535"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Petra, the Village of" label="Petra">
         <attvalues>
