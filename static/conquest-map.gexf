@@ -236,11 +236,11 @@
       </node>
       <node id="Aalen Forest, the" label="Aalen Forest">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-686.1001" y="-456.76086"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Dakhota Hills, the" label="Dakhota Hills">
         <attvalues>
@@ -460,11 +460,11 @@
       </node>
       <node id="Creville Asylum" label="Creville Asylum">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-977.6183" y="68.9619"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Harae, the Isle of" label="Harae">
         <attvalues>
@@ -548,11 +548,11 @@
       </node>
       <node id="Lake Vundamere" label="Lake Vundamere">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-499.6231" y="7.6797256"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Eastern Road, the" label="Eastern Road">
         <attvalues>
