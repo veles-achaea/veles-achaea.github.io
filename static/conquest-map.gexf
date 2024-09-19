@@ -380,11 +380,11 @@
       </node>
       <node id="Siroccian Mountains, the" label="Siroccian Mountains">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-88.68134" y="77.42571"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Dwarven Camp" label="Dwarven Camp">
         <attvalues>
