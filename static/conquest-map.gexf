@@ -828,11 +828,11 @@
       </node>
       <node id="Forest Watch" label="Forest Watch">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="75.42052" y="398.27835"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Piraeus, Mount" label="Piraeus">
         <attvalues>
