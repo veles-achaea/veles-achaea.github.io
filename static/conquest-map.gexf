@@ -868,11 +868,11 @@
       </node>
       <node id="11" label="S. Zaphar">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="10.889469" y="172.47145"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
     </nodes>
     <edges>
