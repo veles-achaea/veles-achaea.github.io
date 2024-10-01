@@ -36,11 +36,11 @@
       </node>
       <node id="1" label="Moghedu">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-471.53256" y="-270.96753"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Ruins of the Erisian Pyramid" label="Erisian Pyramid">
         <attvalues>
@@ -564,11 +564,11 @@
       </node>
       <node id="Manusha" label="Manusha">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="242.97891" y="489.5004"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Enverren Marsh" label="Enverren Marsh">
         <attvalues>
