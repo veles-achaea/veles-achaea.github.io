@@ -244,11 +244,11 @@
       </node>
       <node id="Dakhota Hills, the" label="Dakhota Hills">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-574.91473" y="-126.05391"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Dun Valley" label="Dun Valley">
         <attvalues>
