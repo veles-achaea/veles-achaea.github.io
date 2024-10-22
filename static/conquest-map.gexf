@@ -500,11 +500,11 @@
       </node>
       <node id="Riparium" label="Riparium">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="296.2639" y="271.58774"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Belladona, the Keep of" label="Belladona's Keep">
         <attvalues>
