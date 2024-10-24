@@ -52,11 +52,11 @@
       </node>
       <node id="Savannah, the (Central)" label="Savannah">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="13.666667"/>
         <viz:position x="-579.27716" y="-17.842434"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Zaphar River, the" label="Zaphar">
         <attvalues>
@@ -308,11 +308,11 @@
       </node>
       <node id="Urubamba River, the" label="Urubamba River">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Ashthan"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-522.8408" y="133.4397"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Shastaan" label="Shastaan">
         <attvalues>
@@ -436,11 +436,11 @@
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-346.71875" y="-420.96933"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Targossas" label="Targossas">
         <attvalues>
