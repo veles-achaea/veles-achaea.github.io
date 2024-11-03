@@ -612,11 +612,11 @@
       </node>
       <node id="Mannaseh swamp" label="Mannaseh swamp">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-343.28995" y="-50.368725"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Digsite of War" label="Digsite of War">
         <attvalues>
@@ -636,11 +636,11 @@
       </node>
       <node id="Tasur'ke" label="Tasur'ke">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="139.18385" y="575.7084"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Ka'doloki, the Village of" label="Ka'doloki">
         <attvalues>
