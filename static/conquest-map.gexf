@@ -524,11 +524,11 @@
       </node>
       <node id="Sunderlands" label="Sunderlands">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-54.379265" y="459.5459"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Eleusis" label="Eleusis">
         <attvalues>
