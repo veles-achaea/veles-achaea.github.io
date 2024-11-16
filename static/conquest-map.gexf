@@ -220,11 +220,11 @@
       </node>
       <node id="Dardanic Plains, the" label="Dardanic Plains">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-350.42255" y="623.3632"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Vashnar Mountains, the" label="Vashnar Mountains">
         <attvalues>
@@ -252,11 +252,11 @@
       </node>
       <node id="Dun Valley" label="Dun Valley">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-619.07086" y="-312.49094"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Thraasi Foothills" label="Thraasi Foothills">
         <attvalues>
@@ -628,11 +628,11 @@
       </node>
       <node id="Aurick Manor" label="Aurick Manor">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="165.78535" y="637.43835"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Tasur'ke" label="Tasur'ke">
         <attvalues>
