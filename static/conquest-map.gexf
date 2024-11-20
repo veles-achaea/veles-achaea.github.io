@@ -36,11 +36,11 @@
       </node>
       <node id="1" label="Moghedu">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-471.53256" y="-270.96753"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Ruins of the Erisian Pyramid" label="Erisian Pyramid">
         <attvalues>
@@ -308,11 +308,11 @@
       </node>
       <node id="Urubamba River, the" label="Urubamba River">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-522.8408" y="133.4397"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Shastaan" label="Shastaan">
         <attvalues>
