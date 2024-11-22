@@ -436,11 +436,11 @@
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-346.71875" y="-420.96933"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Targossas" label="Targossas">
         <attvalues>
