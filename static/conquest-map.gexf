@@ -580,11 +580,11 @@
       </node>
       <node id="Darkenwood, the" label="Darkenwood">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-441.94684" y="776.76086"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Quartz Peak" label="Quartz Peak">
         <attvalues>
