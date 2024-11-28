@@ -452,11 +452,11 @@
       </node>
       <node id="Tomacula" label="Tomacula">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-504.56995" y="-20.873798"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Creville Asylum" label="Creville Asylum">
         <attvalues>
