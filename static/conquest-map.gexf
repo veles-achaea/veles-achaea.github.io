@@ -308,11 +308,11 @@
       </node>
       <node id="Urubamba River, the" label="Urubamba River">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-522.8408" y="133.4397"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Shastaan" label="Shastaan">
         <attvalues>
