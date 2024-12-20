@@ -60,11 +60,11 @@
       </node>
       <node id="Zaphar River, the" label="Zaphar">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="8.0"/>
         <viz:position x="-2.1917028" y="313.63992"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Adryn's Keep" label="Adryn's Keep">
         <attvalues>
@@ -340,11 +340,11 @@
       </node>
       <node id="New Thera, the Village of" label="New Thera">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-687.548" y="205.72777"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Vashnar Mountains, the (North)" label="N. Vashnar Mountains">
         <attvalues>
@@ -788,11 +788,11 @@
       </node>
       <node id="Bog of Ashtan" label="Bog of Ashtan">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="7.333333"/>
         <viz:position x="-352.79562" y="370.7901"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Den of the quisalis" label="Den of the Quisalis">
         <attvalues>
