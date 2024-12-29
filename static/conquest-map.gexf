@@ -276,11 +276,11 @@
       </node>
       <node id="Shamtota Hills, the (West)" label="Shamtota Hills">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-319.15173" y="-164.16313"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Granite Hills, the" label="Granite Hills">
         <attvalues>
@@ -436,11 +436,11 @@
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-346.71875" y="-420.96933"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Targossas" label="Targossas">
         <attvalues>
@@ -604,11 +604,11 @@
       </node>
       <node id="Kasmarkin, the City of" label="Kasmarkin">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-364.2913" y="-12.609581"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Mannaseh swamp" label="Mannaseh swamp">
         <attvalues>
@@ -860,11 +860,11 @@
       </node>
       <node id="9" label="E. Pachacacha">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-229.75116" y="-139.5438"/>
-        <viz:color r="255" g="255" b="128"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="11" label="S. Zaphar">
         <attvalues>
