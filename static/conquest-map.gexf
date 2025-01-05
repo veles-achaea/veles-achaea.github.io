@@ -428,11 +428,11 @@
       </node>
       <node id="Jaru" label="Jaru">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-224.75545" y="-317.83588"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
