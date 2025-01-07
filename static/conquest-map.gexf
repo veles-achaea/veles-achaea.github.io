@@ -300,19 +300,19 @@
       </node>
       <node id="Northern Wilderness" label="Northern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="10.333334"/>
         <viz:position x="-163.00844" y="492.64102"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Urubamba River, the" label="Urubamba River">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-522.8408" y="133.4397"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Shastaan" label="Shastaan">
         <attvalues>
@@ -636,11 +636,11 @@
       </node>
       <node id="Tasur'ke" label="Tasur'ke">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="139.18385" y="575.7084"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Ka'doloki, the Village of" label="Ka'doloki">
         <attvalues>
