@@ -812,11 +812,11 @@
       </node>
       <node id="Qurnok, the Village of" label="Qurnok">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-199.32928" y="156.66878"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Ashtan, the City of" label="Ashtan">
         <attvalues>
