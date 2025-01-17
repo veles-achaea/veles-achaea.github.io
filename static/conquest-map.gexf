@@ -52,11 +52,11 @@
       </node>
       <node id="Savannah, the (Central)" label="Savannah">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="13.666667"/>
         <viz:position x="-579.27716" y="-17.842434"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Zaphar River, the" label="Zaphar">
         <attvalues>
@@ -284,11 +284,11 @@
       </node>
       <node id="Granite Hills, the" label="Granite Hills">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-434.8495" y="519.0782"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Northern Plains" label="Northern Plains">
         <attvalues>
