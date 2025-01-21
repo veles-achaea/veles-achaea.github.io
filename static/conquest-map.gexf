@@ -196,11 +196,11 @@
       </node>
       <node id="Aerinewild, the" label="Aerinewild">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-627.7394" y="78.642944"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Aureliana Forest, the" label="Aureliana Forest">
         <attvalues>
