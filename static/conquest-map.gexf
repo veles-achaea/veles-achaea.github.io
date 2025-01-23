@@ -452,11 +452,11 @@
       </node>
       <node id="Tomacula" label="Tomacula">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-504.56995" y="-20.873798"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Creville Asylum" label="Creville Asylum">
         <attvalues>
@@ -844,11 +844,11 @@
       </node>
       <node id="4" label="Beastlords">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-679.3212" y="29.131367"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="7" label="Caer Witrin">
         <attvalues>
