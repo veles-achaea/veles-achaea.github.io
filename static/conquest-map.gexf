@@ -228,11 +228,11 @@
       </node>
       <node id="Vashnar Mountains, the" label="Vashnar Mountains">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-674.5479" y="-291.92368"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Aalen Forest, the" label="Aalen Forest">
         <attvalues>
