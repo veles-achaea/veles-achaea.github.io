@@ -404,11 +404,11 @@
       </node>
       <node id="Pash Valley (East)" label="Pash Valley">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-272.4786" y="-252.21877"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Bagwar's Copse" label="Bagwar's Copse">
         <attvalues>
