@@ -44,11 +44,11 @@
       </node>
       <node id="Ruins of the Erisian Pyramid" label="Erisian Pyramid">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-401.1484" y="-209.92174"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Savannah, the (Central)" label="Savannah">
         <attvalues>
