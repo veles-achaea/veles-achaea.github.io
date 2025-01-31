@@ -68,11 +68,11 @@
       </node>
       <node id="Adryn's Keep" label="Adryn's Keep">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="130.3213" y="180.1496"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Central Wilderness" label="Central Wilderness">
         <attvalues>
@@ -252,11 +252,11 @@
       </node>
       <node id="Dun Valley" label="Dun Valley">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-619.07086" y="-312.49094"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Thraasi Foothills" label="Thraasi Foothills">
         <attvalues>
@@ -708,11 +708,11 @@
       </node>
       <node id="Goblin Village, the" label="Goblin Village">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-544.6086" y="-94.34428"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Tir Murann" label="Tir Murann">
         <attvalues>
