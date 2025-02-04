@@ -604,11 +604,11 @@
       </node>
       <node id="Kasmarkin, the City of" label="Kasmarkin">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-364.2913" y="-12.609581"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Mannaseh swamp" label="Mannaseh swamp">
         <attvalues>
