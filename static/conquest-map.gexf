@@ -364,11 +364,11 @@
       </node>
       <node id="Eastern Wilderness" label="Eastern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="194.57164" y="273.55923"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Excised Ruins of Targossas" label="Ex. Targossas">
         <attvalues>
