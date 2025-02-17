@@ -188,11 +188,11 @@
       </node>
       <node id="Pachacacha River, the" label="Pachacacha River">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-363.5908" y="-99.868195"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Aerinewild, the" label="Aerinewild">
         <attvalues>
@@ -516,11 +516,11 @@
       </node>
       <node id="Northreach, the" label="Northreach">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-325.1175" y="738.93195"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="128" b="0"/>
       </node>
       <node id="Sunderlands" label="Sunderlands">
         <attvalues>
@@ -860,11 +860,11 @@
       </node>
       <node id="9" label="E. Pachacacha">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-229.75116" y="-139.5438"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="11" label="S. Zaphar">
         <attvalues>
