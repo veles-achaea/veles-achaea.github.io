@@ -348,7 +348,7 @@
       </node>
       <node id="Vashnar Mountains, the (North)" label="N. Vashnar Mountains">
         <attvalues>
-          <attvalue for="heldby" value="Mahldor"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-932.8044" y="8.320282"/>
