@@ -724,11 +724,11 @@
       </node>
       <node id="Black Forest, the" label="Black Forest">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-679.64966" y="99.55496"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Shala'jen, the Monastery of" label="Shala'jen">
         <attvalues>
