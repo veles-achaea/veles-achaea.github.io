@@ -420,11 +420,11 @@
       </node>
       <node id="Lake Narcisse" label="Lake Narcisse">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-141.77342" y="386.71976"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Jaru" label="Jaru">
         <attvalues>
