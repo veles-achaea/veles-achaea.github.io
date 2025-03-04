@@ -1001,7 +1001,7 @@
       <edge id="163" source="Urubamba River, the" target="Savannah, the (Central)"/>
       <edge id="167" source="Hashan, the City of" target="Sunderlands"/>
       <edge id="168" source="Pachacacha River, the" target="Dakhota Hills, the"/>
-      <edge id="169" source="Pachacacha River, the" target="Mannaseh swamp"/>
+      <edge id="169" source="Pachacacha River, the" target="Mannaseh Swamp"/>
       <edge id="416" source="Peshwar Delta" target="9"/>
       <edge id="415" source="9" target="Peshwar Delta"/>
       <edge id="173" source="Pachacacha River, the" target="Savannah, the (Central)"/>
@@ -1043,9 +1043,9 @@
       <edge id="231" source="Genji, the Village of" target="Vashnar Mountains, the (South)"/>
       <edge id="232" source="Actar, the Valley of" target="Cyrene Road"/>
       <edge id="233" source="Chapel of All Gods" target="Central Wilderness"/>
-      <edge id="234" source="Mannaseh swamp" target="Digsite of War"/>
-      <edge id="235" source="Mannaseh swamp" target="Kasmarkin, the City of"/>
-      <edge id="236" source="Mannaseh swamp" target="Pachacacha River, the"/>
+      <edge id="234" source="Mannaseh Swamp" target="Digsite of War"/>
+      <edge id="235" source="Mannaseh Swamp" target="Kasmarkin, the City of"/>
+      <edge id="236" source="Mannaseh Swamp" target="Pachacacha River, the"/>
       <edge id="237" source="Northern Wilderness" target="Central Wilderness"/>
       <edge id="238" source="Northern Wilderness" target="Eastern Road, the"/>
       <edge id="239" source="Northern Wilderness" target="Granite Hills, the"/>
