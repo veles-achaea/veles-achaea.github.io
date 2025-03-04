@@ -188,11 +188,11 @@
       </node>
       <node id="Pachacacha River, the" label="Pachacacha River">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-363.5908" y="-99.868195"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Aerinewild, the" label="Aerinewild">
         <attvalues>
@@ -604,13 +604,13 @@
       </node>
       <node id="Kasmarkin, the City of" label="Kasmarkin">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-364.2913" y="-12.609581"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
-      <node id="Mannaseh swamp" label="Mannaseh swamp">
+      <node id="Mannaseh Swamp" label="Mannaseh Swamp">
         <attvalues>
           <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
@@ -676,7 +676,7 @@
       </node>
       <node id="Mesmerium, the" label="Mesmerium">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-378.0799" y="176.78531"/>
@@ -956,9 +956,9 @@
       <edge id="107" source="Saiha'balan Grotto" target="Aalen Forest, the"/>
       <edge id="110" source="Darkenwood, the" target="Northreach, the"/>
       <edge id="111" source="Quartz Peak" target="Vashnar Mountains, the (South)"/>
-      <edge id="112" source="Kasmarkin, the City of" target="Mannaseh swamp"/>
+      <edge id="112" source="Kasmarkin, the City of" target="Mannaseh Swamp"/>
       <edge id="113" source="Bagwar's Copse" target="Western Ithmia, the"/>
-      <edge id="114" source="Digsite of War" target="Mannaseh swamp"/>
+      <edge id="114" source="Digsite of War" target="Mannaseh Swamp"/>
       <edge id="116" source="Delos, the Isle of" target="Eastern Road, the"/>
       <edge id="119" source="Targossas" target="Jaru"/>
       <edge id="120" source="Targossas" target="Pash Valley (East)"/>
