@@ -204,11 +204,11 @@
       </node>
       <node id="Aureliana Forest, the" label="Aureliana Forest">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-572.31177" y="59.81111"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Bitterfork" label="Bitterfork">
         <attvalues>
