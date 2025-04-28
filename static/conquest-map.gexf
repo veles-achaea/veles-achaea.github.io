@@ -316,11 +316,11 @@
       </node>
       <node id="Shastaan" label="Shastaan">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="227.83476" y="70.061005"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="128" g="128" b="0"/>
       </node>
       <node id="Eastern Shore, the" label="Eastern Shore">
         <attvalues>
