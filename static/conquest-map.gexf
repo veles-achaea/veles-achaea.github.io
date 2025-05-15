@@ -460,11 +460,11 @@
       </node>
       <node id="Creville Asylum" label="Creville Asylum">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-977.6183" y="68.9619"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Harae, the Isle of" label="Harae">
         <attvalues>
