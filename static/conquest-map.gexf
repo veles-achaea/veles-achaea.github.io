@@ -28,11 +28,11 @@
       </node>
       <node id="Southern Wilderness" label="Southern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="10.333334"/>
         <viz:position x="37.984085" y="35.81664"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="1" label="Moghedu">
         <attvalues>
@@ -108,11 +108,11 @@
       </node>
       <node id="Northern Ithmia, the" label="Northern Ithmia">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-4.561714" y="390.56317"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="128" g="128" b="0"/>
       </node>
       <node id="Peshwar Delta" label="Peshwar Delta">
         <attvalues>
@@ -220,11 +220,11 @@
       </node>
       <node id="Dardanic Plains, the" label="Dardanic Plains">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-350.42255" y="623.3632"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Vashnar Mountains, the" label="Vashnar Mountains">
         <attvalues>
@@ -428,11 +428,11 @@
       </node>
       <node id="Jaru" label="Jaru">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-224.75545" y="-317.83588"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
@@ -732,11 +732,11 @@
       </node>
       <node id="Shala'jen, the Monastery of" label="Shala'jen">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-192.51485" y="-228.86105"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Halls of Battle" label="Halls of Battle">
         <attvalues>
@@ -860,11 +860,11 @@
       </node>
       <node id="9" label="E. Pachacacha">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-229.75116" y="-139.5438"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="11" label="S. Zaphar">
         <attvalues>
