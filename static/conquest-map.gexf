@@ -60,11 +60,11 @@
       </node>
       <node id="Zaphar River, the" label="Zaphar">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="8.0"/>
         <viz:position x="-2.1917028" y="313.63992"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Adryn's Keep" label="Adryn's Keep">
         <attvalues>
