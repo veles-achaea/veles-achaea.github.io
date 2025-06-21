@@ -1,1183 +1,1183 @@
 <?xml version='1.0' encoding='UTF-8'?>
-  <gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
-    <meta lastmodifieddate="2025-06-21">
-      <creator>Lua Script</creator>
-      <title></title>
-      <description></description>
-    </meta>
-    <graph defaultedgetype="directed" mode="static">
-      <attributes class="node" mode="static">
-        <attribute id="heldby" title="HeldBy" type="string"/>
-      </attributes>
-      <nodes>
-          <node id="Ghezavat Commune" label="Ghezavat">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-415.8639" y="-252.4398"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Mhojave Desert" label="Mhojave">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="9"/>
-          <viz:position x="-456.3431" y="-225.1567"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Southern Wilderness" label="Southern Wilderness">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="10.33333"/>
-          <viz:position x="37.98409" y="35.81664"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Moghedu" label="Moghedu">
-          <attvalues>
-            <attvalue for="heldby" value="Mhaldor"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-471.5326" y="-270.9675"/>
-          <viz:color r="255" g="0" b="0"/>
-        </node>
-        <node id="The Ruins of the Erisian Pyramid" label="Erisian Pyramid">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-401.1484" y="-209.9217"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Savannah" label="Savannah">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="13.66667"/>
-          <viz:position x="-579.2772" y="-17.84243"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Zaphar River, the" label="Zaphar">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8"/>
-          <viz:position x="-2.191703" y="313.6399"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Adryn's Keep" label="Adryn's Keep">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="130.3213" y="180.1496"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Central Wilderness" label="Central Wilderness">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="15"/>
-          <viz:position x="-199.3293" y="245.6358"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Delos, the Isle of" label="Delos">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="-48.13593" y="238.0805"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Eastern Ithmia, the" label="Eastern Ithmia">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="47.60054" y="357.6427"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Eastern Reaches" label="Eastern Reaches">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="9"/>
-          <viz:position x="156.0859" y="140.2186"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Northern Ithmia, the" label="Northern Ithmia">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="9"/>
-          <viz:position x="-4.561714" y="390.5632"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Peshwar Delta" label="Peshwar Delta">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7.666667"/>
-          <viz:position x="-83.11102" y="-59.34764"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Western Ithmia, the" label="Western Ithmia">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="9"/>
-          <viz:position x="-88.93239" y="366.8265"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="2" label="Digsite of Husks">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-484.9595" y="-326.1535"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Sangre Plains" label="Sangre Plains">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8"/>
-          <viz:position x="-530.9243" y="391.7346"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Muurn Lake" label="Muurn Lake">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-583.8062" y="-632.5909"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Cyrene" label="Cyrene">
-          <attvalues>
-            <attvalue for="heldby" value="Cyrene"/>
-          </attvalues>
-          <viz:size value="20"/>
-          <viz:position x="-491.8605" y="-619.1091"/>
-          <viz:color r="0" g="128" b="128"/>
-        </node>
-        <node id="The Muurn River Valley" label="Muurn River Valley">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="-664.7709" y="-591.7218"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Island off the Northern Vashnars" label="Mhaldor Isle">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7.666667"/>
-          <viz:position x="-1011.433" y="0.8718147"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Isle of New Hope" label="Isle of New Hope">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-60.70355" y="-142.1524"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Pachacacha River" label="Pachacacha River">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8.333334"/>
-          <viz:position x="-363.5908" y="-99.8682"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Aerinewild, the" label="Aerinewild">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-627.7394" y="78.64294"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Aureliana Forest, the" label="Aureliana Forest">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7.666667"/>
-          <viz:position x="-572.3118" y="59.81111"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Bitterfork" label="Bitterfork">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-426.7486" y="661.5322"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Dardanic Grasslands" label="Dardanic Plains">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="-350.4226" y="623.3632"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Vashnar Mountains" label="Vashnar Mountains">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8.333334"/>
-          <viz:position x="-674.5479" y="-291.9237"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Aalen Forest, the" label="Aalen Forest">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="-686.1001" y="-456.7609"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Dakhota Hills" label="Dakhota Hills">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="9.666666"/>
-          <viz:position x="-574.9147" y="-126.0539"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Barony of Dun Valley" label="Dun Valley">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-619.0709" y="-312.4909"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Thraasi Foothills" label="Thraasi Foothills">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-741.473" y="-346.783"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Hashan" label="Hashan">
-          <attvalues>
-            <attvalue for="heldby" value="Hashan"/>
-          </attvalues>
-          <viz:size value="20"/>
-          <viz:position x="30.74741" y="436.8155"/>
-          <viz:color r="128" g="128" b="0"/>
-        </node>
-        <node id="The Shamtota Hills" label="Shamtota Hills">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8.333334"/>
-          <viz:position x="-319.1517" y="-164.1631"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Granite Hills" label="Granite Hills">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8.333334"/>
-          <viz:position x="-434.8495" y="519.0782"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Northern Plains" label="Northern Plains">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="-232.5951" y="539.9448"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Northern Wilderness" label="Northern Wilderness">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="10.33333"/>
-          <viz:position x="-163.0084" y="492.641"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Urubamba River" label="Urubamba River">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="9.666666"/>
-          <viz:position x="-522.8408" y="133.4397"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Shastaan" label="Shastaan">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="227.8348" y="70.061"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Eastern Shore, the" label="Eastern Shore">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="236.9852" y="185.0791"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Maim's Mansion" label="Maim's Mansion">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-743.4675" y="268.732"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="New Thera" label="New Thera">
-          <attvalues>
-            <attvalue for="heldby" value="Ashtan"/>
-          </attvalues>
-          <viz:size value="7.666667"/>
-          <viz:position x="-687.548" y="205.7278"/>
-          <viz:color r="128" g="0" b="128"/>
-        </node>
-        <node id="The Northern Vashnar Mountains" label="N. Vashnar Mountains">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8.333334"/>
-          <viz:position x="-932.8044" y="8.320282"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Nimick, the Village of" label="Nimick">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-154.2398" y="-54.41804"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Eastern Wilderness" label="Eastern Wilderness">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="194.5716" y="273.5592"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Excised Ruins of Targossas" label="Ex. Targossas">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="156.6737" y="94.09471"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Siroccian Mountains, the" label="Siroccian Mountains">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8.333334"/>
-          <viz:position x="-88.68134" y="77.42571"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Dwarven Camp" label="Dwarven Camp">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.333334"/>
-          <viz:position x="-189.2428" y="30.18048"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Orcish Outpost" label="Orcish Outpost">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.333334"/>
-          <viz:position x="-197.1556" y="68.75897"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Pash Valley" label="Pash Valley">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="9.666666"/>
-          <viz:position x="-272.4786" y="-252.2188"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Bagwar's Copse" label="Bagwar's Copse">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-77.58341" y="311.4773"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Lake Narcisse" label="Lake Narcisse">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-141.7734" y="386.7198"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Jaru" label="Jaru">
-          <attvalues>
-            <attvalue for="heldby" value="Targossas"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="-224.7554" y="-317.8359"/>
-          <viz:color r="255" g="255" b="0"/>
-        </node>
-        <node id="The Great Southern Road" label="Great Southern Road">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="9.666666"/>
-          <viz:position x="-346.7188" y="-420.9693"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Targossas" label="Targossas">
-          <attvalues>
-            <attvalue for="heldby" value="Targossas"/>
-          </attvalues>
-          <viz:size value="20"/>
-          <viz:position x="-159.3498" y="-274.0169"/>
-          <viz:color r="255" g="255" b="0"/>
-        </node>
-        <node id="The Village of Tomacula" label="Tomacula">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-504.57" y="-20.8738"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Creville Asylum" label="Creville Asylum">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-977.6183" y="68.9619"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Isle of Harae" label="Harae">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-926.814" y="-38.27664"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Xhaiden Dale" label="Xhaiden Dale">
-          <attvalues>
-            <attvalue for="heldby" value="Mhaldor"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-894.2924" y="72.69438"/>
-          <viz:color r="255" g="0" b="0"/>
-        </node>
-        <node id="The Azdun Dungeon" label="Azdun Dungeon">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-574.9147" y="-181.7673"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Azdun Catacombs" label="The Azdun Catacombs">
-          <attvalues>
-            <attvalue for="heldby" value="Mhaldor"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-574.9147" y="-215.6683"/>
-          <viz:color r="255" g="0" b="0"/>
-        </node>
-        <node id="Riparium" label="Riparium">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="296.2639" y="271.5877"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Belladona, the Keep of" label="Belladona's Keep">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-196.6761" y="603.7727"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Northreach, the" label="Northreach">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-325.1175" y="738.932"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Sunderlands" label="Sunderlands">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="-54.37926" y="459.5459"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Eleusis" label="Eleusis">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="20"/>
-          <viz:position x="104.2404" y="301.0652"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Saiha'balan Grotto" label="Saiha'balan Grotto">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-622.9965" y="-423.4626"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Lake Vundamere" label="Lake Vundamere">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-499.6231" y="7.679726"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Eastern Road" label="Eastern Road">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8.333334"/>
-          <viz:position x="174.308" y="441.1316"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Manusha" label="Manusha">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="242.9789" y="489.5004"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Enverren Marsh" label="Enverren Marsh">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="293.0304" y="530.2331"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Darkenwood, the" label="Darkenwood">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-441.9468" y="776.7609"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Quartz Peak" label="Quartz Peak">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-178.8493" y="-542.7949"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Southern Vashnar Mountains" label="S. Vashnar Mountains">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8.333334"/>
-          <viz:position x="-254.2759" y="-526.094"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Kasmarkin, the City of" label="Kasmarkin">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-364.2913" y="-12.60958"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Mannaseh Swamp" label="Mannaseh Swamp">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="-343.2899" y="-50.36872"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Digsite of War" label="Digsite of War">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-303.3312" y="-26.00954"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Aurick Manor" label="Aurick Manor">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="165.7853" y="637.4384"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Tasur'ke" label="Tasur'ke">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7"/>
-          <viz:position x="139.1839" y="575.7084"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Ka'doloki, the Village of" label="Ka'doloki">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-683.1235" y="-631.0223"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Halls of Blackrock" label="Blackrock Halls">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-1008.674" y="-56.75065"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Mhaldor" label="Mhaldor">
-          <attvalues>
-            <attvalue for="heldby" value="Mhaldor"/>
-          </attvalues>
-          <viz:size value="20"/>
-          <viz:position x="-1092.38" y="40.43073"/>
-          <viz:color r="255" g="0" b="0"/>
-        </node>
-        <node id="An Underground Lake" label="Underground Lake">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-1101.074" y="-48.88777"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Mesmerium" label="Mesmerium">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-378.0799" y="176.7853"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Genji, the Village of" label="Genji">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-330.012" y="-494.5087"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Rhodestrian Settlement" label="Rhodestrian Settlement">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-327.9057" y="-567.2984"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Sea Lion Cove" label="Sea Lion Cove">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-248.1854" y="-637.2493"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Goblin Village, the" label="Goblin Village">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-544.6086" y="-94.34428"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Tir Murann" label="Tir Murann">
-          <attvalues>
-            <attvalue for="heldby" value="Mhaldor"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-519.6964" y="-145.6647"/>
-          <viz:color r="255" g="0" b="0"/>
-        </node>
-        <node id="Black Forest, the" label="Black Forest">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7.666667"/>
-          <viz:position x="-679.6497" y="99.55496"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Shala'jen, the Monastery of" label="Shala'jen">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-192.5148" y="-228.8611"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Halls of Battle" label="Halls of Battle">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-560.832" y="448.4489"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Theran Underground" label="Theran Underground">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-740.5931" y="165.9792"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Cyrene Road" label="Cyrene Road">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7.666667"/>
-          <viz:position x="-418.3854" y="-539.1007"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Actar, the Valley of" label="Actar">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-436.3523" y="-495.1276"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Chapel of All Gods" label="Chapel of All Gods">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-289.6097" y="272.0453"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Village of Petra" label="Petra">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-428.5928" y="446.2375"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The bog of Ashtan" label="Bog of Ashtan">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="7.333333"/>
-          <viz:position x="-352.7956" y="370.7901"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Den of the quisalis" label="Den of the Quisalis">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-788.1346" y="119.1006"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Green Lake" label="Green Lake">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="6.333334"/>
-          <viz:position x="-199.3293" y="199.8162"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Qurnok, the Village of" label="Qurnok">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-199.3293" y="156.6688"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Ashtan" label="Ashtan">
-          <attvalues>
-            <attvalue for="heldby" value="Ashtan"/>
-          </attvalues>
-          <viz:size value="20"/>
-          <viz:position x="-341.304" y="434.6027"/>
-          <viz:color r="128" g="0" b="128"/>
-        </node>
-        <node id="Forest Watch" label="Forest Watch">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="75.42052" y="398.2783"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="Piraeus, Mount" label="Piraeus">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-430.1645" y="-456.6199"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Dungeon of the Beastlords" label="Beastlords">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-679.3212" y="29.13137"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="7" label="Caer Witrin">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="5.666666"/>
-          <viz:position x="-478.8904" y="-515.7915"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Eastern Pachacacha River" label="E. Pachacacha">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="8.333334"/>
-          <viz:position x="-229.7512" y="-139.5438"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-        <node id="The Southern Zaphar River" label="S. Zaphar">
-          <attvalues>
-            <attvalue for="heldby" value="None"/>
-          </attvalues>
-          <viz:size value="9.666666"/>
-          <viz:position x="10.88947" y="172.4715"/>
-          <viz:color r="192" g="192" b="192"/>
-        </node>
-      </nodes>
-      <edges>
-        <edge id="0" source="Ghezavat Commune" target="The Mhojave Desert"/>
-        <edge id="2" source="The Mhojave Desert" target="Ghezavat Commune"/>
-        <edge id="367" source="Moghedu" target="2"/>
-        <edge id="5" source="The Mhojave Desert" target="The Ruins of the Erisian Pyramid"/>
-        <edge id="6" source="The Mhojave Desert" target="The Savannah"/>
-        <edge id="10" source="Zaphar River, the" target="Eastern Ithmia, the"/>
-        <edge id="12" source="Zaphar River, the" target="Northern Ithmia, the"/>
-        <edge id="15" source="Zaphar River, the" target="Western Ithmia, the"/>
-        <edge id="362" source="The Dakhota Hills" target="The Mhojave Desert"/>
-        <edge id="17" source="The Muurn Lake" target="Cyrene"/>
-        <edge id="18" source="The Muurn Lake" target="The Muurn River Valley"/>
-        <edge id="20" source="The Peshwar Delta" target="Isle of New Hope"/>
-        <edge id="411" source="The Eastern Pachacacha River" target="The Pash Valley"/>
-        <edge id="22" source="The Peshwar Delta" target="The Southern Wilderness"/>
-        <edge id="25" source="Aerinewild, the" target="Aureliana Forest, the"/>
-        <edge id="27" source="Bitterfork" target="The Dardanic Grasslands"/>
-        <edge id="28" source="The Vashnar Mountains" target="Aalen Forest, the"/>
-        <edge id="29" source="The Vashnar Mountains" target="Dakhota Hills"/>
-        <edge id="30" source="The Vashnar Mountains" target="The Barony of Dun Valley"/>
-        <edge id="32" source="The Vashnar Mountains" target="The Savannah"/>
-        <edge id="33" source="The Vashnar Mountains" target="Thraasi Foothills"/>
-        <edge id="38" source="The Granite Hills" target="The Dardanic Grasslands"/>
-        <edge id="39" source="The Granite Hills" target="The Northern Plains"/>
-        <edge id="40" source="The Granite Hills" target="The Northern Wilderness"/>
-        <edge id="41" source="The Granite Hills" target="The Sangre Plains"/>
-        <edge id="42" source="The Granite Hills" target="The Urubamba River"/>
-        <edge id="43" source="Shastaan" target="The Eastern Reaches"/>
-        <edge id="44" source="Shastaan" target="Eastern Shore, the"/>
-        <edge id="45" source="Shastaan" target="The Southern Wilderness"/>
-        <edge id="46" source="Maim's Mansion" target="New Thera"/>
-        <edge id="47" source="Eastern Shore, the" target="The Eastern Reaches"/>
-        <edge id="48" source="Eastern Shore, the" target="Shastaan"/>
-        <edge id="51" source="The Eastern Reaches" target="Eastern Shore, the"/>
-        <edge id="52" source="The Eastern Reaches" target="The Eastern Wilderness"/>
-        <edge id="53" source="The Eastern Reaches" target="Excised Ruins of Targossas"/>
-        <edge id="54" source="The Eastern Reaches" target="Shastaan"/>
-        <edge id="55" source="The Eastern Reaches" target="The Southern Wilderness"/>
-        <edge id="57" source="Siroccian Mountains, the" target="The Central Wilderness"/>
-        <edge id="58" source="Siroccian Mountains, the" target="Dwarven Camp"/>
-        <edge id="59" source="Siroccian Mountains, the" target="Nimick, the Village of"/>
-        <edge id="60" source="Siroccian Mountains, the" target="Orcish Outpost"/>
-        <edge id="375" source="The Pash Valley" target="Shala'jen, the Monastery of"/>
-        <edge id="62" source="Siroccian Mountains, the" target="The Southern Wilderness"/>
-        <edge id="66" source="Western Ithmia, the" target="Bagwar's Copse"/>
-        <edge id="67" source="Western Ithmia, the" target="The Central Wilderness"/>
-        <edge id="68" source="Western Ithmia, the" target="Lake Narcisse"/>
-        <edge id="69" source="Western Ithmia, the" target="Northern Ithmia, the"/>
-        <edge id="70" source="Western Ithmia, the" target="The Northern Wilderness"/>
-        <edge id="71" source="Western Ithmia, the" target="Zaphar River, the"/>
-        <edge id="72" source="Jaru" target="The Great Southern Road"/>
-        <edge id="73" source="Jaru" target="The Pash Valley"/>
-        <edge id="74" source="Jaru" target="Targossas"/>
-        <edge id="75" source="The Village of Tomacula" target="The Savannah"/>
-        <edge id="78" source="The Northern Vashnar Mountains" target="The Creville Asylum"/>
-        <edge id="79" source="The Northern Vashnar Mountains" target="The Isle of Harae"/>
-        <edge id="80" source="The Northern Vashnar Mountains" target="The Island off the Northern Vashnars"/>
-        <edge id="82" source="The Northern Vashnar Mountains" target="The Savannah"/>
-        <edge id="83" source="The Northern Vashnar Mountains" target="Xhaiden Dale"/>
-        <edge id="84" source="The Azdun Dungeon" target="The Azdun Catacombs"/>
-        <edge id="85" source="Riparium" target="The Eastern Wilderness"/>
-        <edge id="86" source="The Northern Plains" target="Belladona, the Keep of"/>
-        <edge id="87" source="The Northern Plains" target="The Granite Hills"/>
-        <edge id="88" source="The Northern Plains" target="The Northern Wilderness"/>
-        <edge id="91" source="The Sunderlands" target="Hashan"/>
-        <edge id="92" source="The Sunderlands" target="Northern Ithmia, the"/>
-        <edge id="93" source="The Sunderlands" target="The Northern Wilderness"/>
-        <edge id="95" source="Eleusis" target="Eastern Ithmia, the"/>
-        <edge id="96" source="Eleusis" target="Zaphar River, the"/>
-        <edge id="98" source="Aalen Forest, the" target="The Muurn River Valley"/>
-        <edge id="99" source="Aalen Forest, the" target="Saiha'balan Grotto"/>
-        <edge id="100" source="Aalen Forest, the" target="The Vashnar Mountains"/>
-        <edge id="101" source="Lake Vundamere" target="The Savannah"/>
-        <edge id="102" source="The Eastern Wilderness" target="The Eastern Reaches"/>
-        <edge id="103" source="The Eastern Wilderness" target="The Eastern Road"/>
-        <edge id="104" source="The Eastern Wilderness" target="Riparium"/>
-        <edge id="105" source="Isle of New Hope" target="The Peshwar Delta"/>
-        <edge id="106" source="Manusha" target="Enverren Marsh"/>
-        <edge id="107" source="Saiha'balan Grotto" target="Aalen Forest, the"/>
-        <edge id="110" source="Darkenwood, the" target="Northreach, the"/>
-        <edge id="111" source="Quartz Peak" target="The Southern Vashnar Mountains"/>
-        <edge id="112" source="Kasmarkin, the City of" target="The Mannaseh Swamp"/>
-        <edge id="113" source="Bagwar's Copse" target="Western Ithmia, the"/>
-        <edge id="114" source="Digsite of War" target="The Mannaseh Swamp"/>
-        <edge id="116" source="Delos, the Isle of" target="The Eastern Road"/>
-        <edge id="119" source="Targossas" target="Jaru"/>
-        <edge id="120" source="Targossas" target="The Pash Valley"/>
-        <edge id="121" source="Aurick Manor" target="Tasur'ke"/>
-        <edge id="122" source="The Eastern Road" target="Delos, the Isle of"/>
-        <edge id="123" source="The Eastern Road" target="The Eastern Wilderness"/>
-        <edge id="124" source="The Eastern Road" target="Manusha"/>
-        <edge id="125" source="The Eastern Road" target="The Northern Wilderness"/>
-        <edge id="126" source="The Eastern Road" target="Tasur'ke"/>
-        <edge id="127" source="Ka'doloki, the Village of" target="The Muurn River Valley"/>
-        <edge id="129" source="Thraasi Foothills" target="The Vashnar Mountains"/>
-        <edge id="131" source="The Island off the Northern Vashnars" target="The Halls of Blackrock"/>
-        <edge id="132" source="The Island off the Northern Vashnars" target="Mhaldor"/>
-        <edge id="133" source="The Island off the Northern Vashnars" target="An Underground Lake"/>
-        <edge id="134" source="The Island off the Northern Vashnars" target="The Northern Vashnar Mountains"/>
-        <edge id="136" source="Belladona, the Keep of" target="The Northern Plains"/>
-        <edge id="138" source="The Mesmerium" target="The Central Wilderness"/>
-        <edge id="139" source="The Mesmerium" target="The Urubamba River"/>
-        <edge id="140" source="Excised Ruins of Targossas" target="The Eastern Reaches"/>
-        <edge id="379" source="The Great Southern Road" target="The Pash Valley"/>
-        <edge id="143" source="Nimick, the Village of" target="Siroccian Mountains, the"/>
-        <edge id="144" source="The Southern Vashnar Mountains" target="Genji, the Village of"/>
-        <edge id="145" source="The Southern Vashnar Mountains" target="The Great Southern Road"/>
-        <edge id="146" source="The Southern Vashnar Mountains" target="Quartz Peak"/>
-        <edge id="147" source="The Southern Vashnar Mountains" target="Rhodestrian Settlement"/>
-        <edge id="148" source="The Southern Vashnar Mountains" target="Sea Lion Cove"/>
-        <edge id="150" source="The Dakhota Hills" target="The Azdun Dungeon"/>
-        <edge id="151" source="The Dakhota Hills" target="Goblin Village, the"/>
-        <edge id="369" source="The Shamtota Hills" target="Siroccian Mountains, the"/>
-        <edge id="153" source="The Dakhota Hills" target="The Pachacacha River"/>
-        <edge id="154" source="The Dakhota Hills" target="The Savannah"/>
-        <edge id="155" source="The Dakhota Hills" target="Tir Murann"/>
-        <edge id="156" source="The Dakhota Hills" target="The Vashnar Mountains"/>
-        <edge id="157" source="The Urubamba River" target="Aureliana Forest, the"/>
-        <edge id="158" source="The Urubamba River" target="Black Forest, the"/>
-        <edge id="159" source="The Urubamba River" target="The Granite Hills"/>
-        <edge id="160" source="The Urubamba River" target="The Mesmerium"/>
-        <edge id="161" source="The Urubamba River" target="The Pachacacha River"/>
-        <edge id="162" source="The Urubamba River" target="The Sangre Plains"/>
-        <edge id="163" source="The Urubamba River" target="The Savannah"/>
-        <edge id="167" source="Hashan" target="The Sunderlands"/>
-        <edge id="168" source="The Pachacacha River" target="The Dakhota Hills"/>
-        <edge id="169" source="The Pachacacha River" target="The Mannaseh Swamp"/>
-        <edge id="416" source="The Peshwar Delta" target="The Eastern Pachacacha River"/>
-        <edge id="415" source="The Eastern Pachacacha River" target="The Peshwar Delta"/>
-        <edge id="173" source="The Pachacacha River" target="The Savannah"/>
-        <edge id="414" source="The Eastern Pachacacha River" target="The Shamtota Hills"/>
-        <edge id="413" source="The Shamtota Hills" target="The Eastern Pachacacha River"/>
-        <edge id="176" source="The Pachacacha River" target="The Urubamba River"/>
-        <edge id="374" source="The Pash Valley" target="The Shamtota Hills"/>
-        <edge id="370" source="Siroccian Mountains, the" target="The Shamtota Hills"/>
-        <edge id="372" source="Nimick, the Village of" target="The Shamtota Hills"/>
-        <edge id="181" source="The Barony of Dun Valley" target="The Vashnar Mountains"/>
-        <edge id="182" source="Mhaldor" target="The Island off the Northern Vashnars"/>
-        <edge id="185" source="Halls of Battle" target="The Sangre Plains"/>
-        <edge id="186" source="The Isle of Harae" target="The Northern Vashnar Mountains"/>
-        <edge id="187" source="The Shamtota Hills" target="The Great Southern Road"/>
-        <edge id="410" source="The Pash Valley" target="The Eastern Pachacacha River"/>
-        <edge id="365" source="Moghedu" target="The Mhojave Desert"/>
-        <edge id="192" source="The Pash Valley" target="Jaru"/>
-        <edge id="409" source="The Eastern Pachacacha River" target="Shala'jen, the Monastery of"/>
-        <edge id="378" source="The Pash Valley" target="The Great Southern Road"/>
-        <edge id="195" source="The Pash Valley" target="The Southern Wilderness"/>
-        <edge id="196" source="The Pash Valley" target="Targossas"/>
-        <edge id="197" source="Black Forest, the" target="The Central Wilderness"/>
-        <edge id="198" source="Black Forest, the" target="New Thera"/>
-        <edge id="199" source="Black Forest, the" target="The Savannah"/>
-        <edge id="200" source="Black Forest, the" target="The Urubamba River"/>
-        <edge id="210" source="Northreach, the" target="The Dardanic Grasslands"/>
-        <edge id="211" source="Northreach, the" target="Darkenwood, the"/>
-        <edge id="214" source="New Thera" target="Black Forest, the"/>
-        <edge id="215" source="New Thera" target="The Central Wilderness"/>
-        <edge id="216" source="New Thera" target="Maim's Mansion"/>
-        <edge id="217" source="New Thera" target="Theran Underground"/>
-        <edge id="218" source="Sea Lion Cove" target="The Southern Vashnar Mountains"/>
-        <edge id="219" source="The Southern Wilderness" target="The Central Wilderness"/>
-        <edge id="220" source="The Southern Wilderness" target="The Eastern Reaches"/>
-        <edge id="222" source="The Southern Wilderness" target="Shastaan"/>
-        <edge id="223" source="The Southern Wilderness" target="Siroccian Mountains, the"/>
-        <edge id="225" source="Cyrene" target="The Cyrene Road"/>
-        <edge id="230" source="Cyrene" target="The Muurn Lake"/>
-        <edge id="231" source="Genji, the Village of" target="The Southern Vashnar Mountains"/>
-        <edge id="232" source="Actar, the Valley of" target="The Cyrene Road"/>
-        <edge id="233" source="The Chapel of All Gods" target="The Central Wilderness"/>
-        <edge id="234" source="The Mannaseh Swamp" target="Digsite of War"/>
-        <edge id="235" source="The Mannaseh Swamp" target="Kasmarkin, the City of"/>
-        <edge id="236" source="The Mannaseh Swamp" target="The Pachacacha River"/>
-        <edge id="237" source="The Northern Wilderness" target="The Central Wilderness"/>
-        <edge id="238" source="The Northern Wilderness" target="The Eastern Road"/>
-        <edge id="239" source="The Northern Wilderness" target="The Granite Hills"/>
-        <edge id="240" source="The Northern Wilderness" target="Northern Ithmia, the"/>
-        <edge id="241" source="The Northern Wilderness" target="The Northern Plains"/>
-        <edge id="242" source="The Northern Wilderness" target="The Sunderlands"/>
-        <edge id="243" source="The Northern Wilderness" target="Tasur'ke"/>
-        <edge id="244" source="The Northern Wilderness" target="Western Ithmia, the"/>
-        <edge id="246" source="Tasur'ke" target="Aurick Manor"/>
-        <edge id="247" source="Tasur'ke" target="The Eastern Road"/>
-        <edge id="248" source="Tasur'ke" target="The Northern Wilderness"/>
-        <edge id="250" source="The Village of Petra" target="The bog of Ashtan"/>
-        <edge id="251" source="The Village of Petra" target="The Sangre Plains"/>
-        <edge id="252" source="The Creville Asylum" target="The Northern Vashnar Mountains"/>
-        <edge id="255" source="The Halls of Blackrock" target="The Island off the Northern Vashnars"/>
-        <edge id="261" source="Theran Underground" target="Den of the quisalis"/>
-        <edge id="262" source="Theran Underground" target="New Thera"/>
-        <edge id="263" source="The Savannah" target="Aureliana Forest, the"/>
-        <edge id="264" source="The Savannah" target="Black Forest, the"/>
-        <edge id="265" source="The Savannah" target="The Central Wilderness"/>
-        <edge id="266" source="The Savannah" target="The Dakhota Hills"/>
-        <edge id="268" source="The Savannah" target="Lake Vundamere"/>
-        <edge id="269" source="The Savannah" target="The Mhojave Desert"/>
-        <edge id="271" source="The Savannah" target="The Pachacacha River"/>
-        <edge id="272" source="The Savannah" target="The Village of Tomacula"/>
-        <edge id="273" source="The Savannah" target="The Urubamba River"/>
-        <edge id="274" source="The Savannah" target="The Vashnar Mountains"/>
-        <edge id="275" source="The Savannah" target="The Northern Vashnar Mountains"/>
-        <edge id="277" source="Green Lake" target="The Central Wilderness"/>
-        <edge id="278" source="Green Lake" target="Qurnok, the Village of"/>
-        <edge id="408" source="Shala'jen, the Monastery of" target="The Eastern Pachacacha River"/>
-        <edge id="282" source="The Dardanic Grasslands" target="Bitterfork"/>
-        <edge id="283" source="The Dardanic Grasslands" target="The Granite Hills"/>
-        <edge id="284" source="The Dardanic Grasslands" target="Northreach, the"/>
-        <edge id="285" source="Aureliana Forest, the" target="Aerinewild, the"/>
-        <edge id="286" source="Aureliana Forest, the" target="The Central Wilderness"/>
-        <edge id="287" source="Aureliana Forest, the" target="The Savannah"/>
-        <edge id="288" source="Aureliana Forest, the" target="The Urubamba River"/>
-        <edge id="290" source="The Muurn River Valley" target="Aalen Forest, the"/>
-        <edge id="291" source="The Muurn River Valley" target="Ka'doloki, the Village of"/>
-        <edge id="292" source="The Muurn River Valley" target="The Muurn Lake"/>
-        <edge id="373" source="The Shamtota Hills" target="The Pash Valley"/>
-        <edge id="296" source="Lake Narcisse" target="Western Ithmia, the"/>
-        <edge id="297" source="Eastern Ithmia, the" target="Eleusis"/>
-        <edge id="298" source="Eastern Ithmia, the" target="Northern Ithmia, the"/>
-        <edge id="299" source="Eastern Ithmia, the" target="Zaphar River, the"/>
-        <edge id="371" source="The Shamtota Hills" target="Nimick, the Village of"/>
-        <edge id="302" source="Adryn's Keep" target="Eastern Shore, the"/>
-        <edge id="304" source="Forest Watch" target="Northern Ithmia, the"/>
-        <edge id="305" source="The Cyrene Road" target="Actar, the Valley of"/>
-        <edge id="306" source="The Cyrene Road" target="Cyrene"/>
-        <edge id="307" source="The Cyrene Road" target="The Great Southern Road"/>
-        <edge id="308" source="Qurnok, the Village of" target="Green Lake"/>
-        <edge id="311" source="The Sangre Plains" target="The Granite Hills"/>
-        <edge id="312" source="The Sangre Plains" target="Halls of Battle"/>
-        <edge id="361" source="The Mhojave Desert" target="The Dakhota Hills"/>
-        <edge id="314" source="The Sangre Plains" target="The Village of Petra"/>
-        <edge id="363" source="The Mhojave Desert" target="The Great Southern Road"/>
-        <edge id="316" source="The Sangre Plains" target="The Urubamba River"/>
-        <edge id="364" source="The Great Southern Road" target="The Mhojave Desert"/>
-        <edge id="318" source="Xhaiden Dale" target="The Northern Vashnar Mountains"/>
-        <edge id="319" source="The Central Wilderness" target="Aureliana Forest, the"/>
-        <edge id="320" source="The Central Wilderness" target="Black Forest, the"/>
-        <edge id="321" source="The Central Wilderness" target="The bog of Ashtan"/>
-        <edge id="323" source="The Central Wilderness" target="The Chapel of All Gods"/>
-        <edge id="324" source="The Central Wilderness" target="Delos, the Isle of"/>
-        <edge id="325" source="The Central Wilderness" target="Green Lake"/>
-        <edge id="326" source="The Central Wilderness" target="The Mesmerium"/>
-        <edge id="329" source="The Central Wilderness" target="New Thera"/>
-        <edge id="330" source="The Central Wilderness" target="The Northern Wilderness"/>
-        <edge id="331" source="The Central Wilderness" target="The Savannah"/>
-        <edge id="332" source="The Central Wilderness" target="Siroccian Mountains, the"/>
-        <edge id="333" source="The Central Wilderness" target="The Southern Wilderness"/>
-        <edge id="334" source="The Central Wilderness" target="Western Ithmia, the"/>
-        <edge id="336" source="The Ruins of the Erisian Pyramid" target="The Mhojave Desert"/>
-        <edge id="366" source="The Mhojave Desert" target="Moghedu"/>
-        <edge id="339" source="The Great Southern Road" target="The Cyrene Road"/>
-        <edge id="340" source="The Great Southern Road" target="Jaru"/>
-        <edge id="343" source="The Great Southern Road" target="Piraeus, Mount"/>
-        <edge id="344" source="The Great Southern Road" target="The Shamtota Hills"/>
-        <edge id="345" source="The Great Southern Road" target="The Southern Vashnar Mountains"/>
-        <edge id="347" source="Ashtan" target="The bog of Ashtan"/>
-        <edge id="348" source="The Azdun Catacombs" target="The Azdun Dungeon"/>
-        <edge id="349" source="Northern Ithmia, the" target="Eastern Ithmia, the"/>
-        <edge id="350" source="Northern Ithmia, the" target="Forest Watch"/>
-        <edge id="351" source="Northern Ithmia, the" target="The Northern Wilderness"/>
-        <edge id="352" source="Northern Ithmia, the" target="The Sunderlands"/>
-        <edge id="353" source="Northern Ithmia, the" target="Western Ithmia, the"/>
-        <edge id="354" source="Northern Ithmia, the" target="Zaphar River, the"/>
-        <edge id="355" source="The bog of Ashtan" target="Ashtan"/>
-        <edge id="357" source="The bog of Ashtan" target="The Central Wilderness"/>
-        <edge id="358" source="The bog of Ashtan" target="The Village of Petra"/>
-        <edge id="359" source="The bog of Ashtan" target="The Sangre Plains"/>
-        <edge id="360" source="Tir Murann" target="The Dakhota Hills"/>
-        <edge id="388" source="The Dungeon of the Beastlords" target="The Savannah"/>
-        <edge id="389" source="The Savannah" target="The Dungeon of the Beastlords"/>
-        <edge id="384" source="7" target="The Cyrene Road"/>
-        <edge id="385" source="The Cyrene Road" target="7"/>
-        <edge id="390" source="Delos, the Isle of" target="The Central Wilderness"/>
-        <edge id="391" source="2" target="Moghedu"/>
-        <edge id="392" source="Den of the quisalis" target="Theran Underground"/>
-        <edge id="393" source="An Underground Lake" target="The Island off the Northern Vashnars"/>
-        <edge id="394" source="The Azdun Dungeon" target="The Dakhota Hills"/>
-        <edge id="396" source="Goblin Village, the" target="The Dakhota Hills"/>
-        <edge id="397" source="Piraeus, Mount" target="The Great Southern Road"/>
-        <edge id="398" source="Rhodestrian Settlement" target="The Southern Vashnar Mountains"/>
-        <edge id="399" source="Shala'jen, the Monastery of" target="The Pash Valley"/>
-        <edge id="400" source="The Southern Wilderness" target="The Pash Valley"/>
-        <edge id="401" source="The Southern Wilderness" target="The Peshwar Delta"/>
-        <edge id="402" source="Manusha" target="The Eastern Road"/>
-        <edge id="404" source="Enverren Marsh" target="Manusha"/>
-        <edge id="405" source="Eastern Shore, the" target="Adryn's Keep"/>
-        <edge id="406" source="The Pachacacha River" target="The Eastern Pachacacha River"/>
-        <edge id="407" source="The Eastern Pachacacha River" target="The Pachacacha River"/>
-        <edge id="417" source="The Southern Zaphar River" target="Zaphar River, the"/>
-        <edge id="418" source="Zaphar River, the" target="The Southern Zaphar River"/>
-        <edge id="419" source="The Southern Zaphar River" target="Delos, the Isle of"/>
-        <edge id="420" source="Delos, the Isle of" target="The Southern Zaphar River"/>
-        <edge id="421" source="The Southern Zaphar River" target="The Central Wilderness"/>
-        <edge id="422" source="The Central Wilderness" target="The Southern Zaphar River"/>
-        <edge id="423" source="The Southern Zaphar River" target="The Eastern Reaches"/>
-        <edge id="424" source="The Eastern Reaches" target="The Southern Zaphar River"/>
-        <edge id="425" source="The Southern Zaphar River" target="The Southern Wilderness"/>
-        <edge id="426" source="The Southern Wilderness" target="The Southern Zaphar River"/>
-        <edge id="427" source="The Southern Zaphar River" target="Adryn's Keep"/>
-        <edge id="428" source="Adryn's Keep" target="The Southern Zaphar River"/>
-        <edge id="429" source="The Southern Zaphar River" target="The Peshwar Delta"/>
-        <edge id="430" source="The Peshwar Delta" target="The Southern Zaphar River"/>
-        <edge id="432" source="Orcish Outpost" target="Siroccian Mountains, the"/>
-        <edge id="433" source="Dwarven Camp" target="Siroccian Mountains, the"/>
-        <edge id="436" source="The Pachacacha River" target="The Vashnar Mountains"/>
-        <edge id="437" source="The Vashnar Mountains" target="The Pachacacha River"/>
-      </edges>
-    </graph>
-  </gexf>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2024-07-22">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="heldby" title="HeldBy" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="Ghezavat Commune" label="Ghezavat">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-415.86392" y="-252.43979"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Mhojave Desert, the (Central)" label="Mhojave">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="9.0"/>
+        <viz:position x="-456.34305" y="-225.15671"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Southern Wilderness" label="Southern Wilderness">
+        <attvalues>
+          <attvalue for="heldby" value="Targossas"/>
+        </attvalues>
+        <viz:size value="10.333334"/>
+        <viz:position x="37.984085" y="35.81664"/>
+        <viz:color r="255" g="255" b="0"/>
+      </node>
+      <node id="1" label="Moghedu">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-471.53256" y="-270.96753"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Ruins of the Erisian Pyramid" label="Erisian Pyramid">
+        <attvalues>
+          <attvalue for="heldby" value="Cyrene"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-401.1484" y="-209.92174"/>
+        <viz:color r="0" g="128" b="128"/>
+      </node>
+      <node id="Savannah, the (Central)" label="Savannah">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="13.666667"/>
+        <viz:position x="-579.27716" y="-17.842434"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Zaphar River, the" label="Zaphar">
+        <attvalues>
+          <attvalue for="heldby" value="Eleusis"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-2.1917028" y="313.63992"/>
+        <viz:color r="0" g="255" b="0"/>
+      </node>
+      <node id="Adryn's Keep" label="Adryn's Keep">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="130.3213" y="180.1496"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Central Wilderness" label="Central Wilderness">
+        <attvalues>
+          <attvalue for="heldby" value="Ashtan"/>
+        </attvalues>
+        <viz:size value="15.0"/>
+        <viz:position x="-199.32928" y="245.6358"/>
+        <viz:color r="128" g="0" b="128"/>
+      </node>
+      <node id="Delos, the Isle of" label="Delos">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="-48.13593" y="238.08047"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Eastern Ithmia, the" label="Eastern Ithmia">
+        <attvalues>
+          <attvalue for="heldby" value="Eleusis"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="47.600544" y="357.64267"/>
+        <viz:color r="0" g="255" b="0"/>
+      </node>
+      <node id="Eastern Reaches" label="Eastern Reaches">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="9.0"/>
+        <viz:position x="156.08592" y="140.21864"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+      <node id="Northern Ithmia, the" label="Northern Ithmia">
+        <attvalues>
+          <attvalue for="heldby" value="Eleusis"/>
+        </attvalues>
+        <viz:size value="9.0"/>
+        <viz:position x="-4.561714" y="390.56317"/>
+        <viz:color r="0" g="255" b="0"/>
+      </node>
+      <node id="Peshwar Delta" label="Peshwar Delta">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="7.666667"/>
+        <viz:position x="-83.11102" y="-59.34764"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+      <node id="Western Ithmia, the" label="Western Ithmia">
+        <attvalues>
+          <attvalue for="heldby" value="Eleusis"/>
+        </attvalues>
+        <viz:size value="9.0"/>
+        <viz:position x="-88.93239" y="366.82654"/>
+        <viz:color r="0" g="255" b="0"/>
+      </node>
+      <node id="2" label="Digsite of Husks">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-484.95953" y="-326.15353"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Sangre Plains, the" label="Sangre Plains">
+        <attvalues>
+          <attvalue for="heldby" value="Ashtan"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-530.92426" y="391.73462"/>
+        <viz:color r="128" g="0" b="128"/>
+      </node>
+      <node id="Muurn Lake" label="Muurn Lake">
+        <attvalues>
+          <attvalue for="heldby" value="Cyrene"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-583.80615" y="-632.59094"/>
+        <viz:color r="0" g="128" b="128"/>
+      </node>
+      <node id="Cyrene, the City of" label="Cyrene">
+        <attvalues>
+          <attvalue for="heldby" value="Cyrene"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-491.86047" y="-619.10913"/>
+        <viz:color r="0" g="128" b="128"/>
+      </node>
+      <node id="Muurn River Valley" label="Muurn River Valley">
+        <attvalues>
+          <attvalue for="heldby" value="Cyrene"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="-664.7709" y="-591.7218"/>
+        <viz:color r="0" g="128" b="128"/>
+      </node>
+      <node id="Mhaldor Isle" label="Mhaldor Isle">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="7.666667"/>
+        <viz:position x="-1011.4326" y="0.8718147"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Isle of New Hope" label="Isle of New Hope">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-60.703552" y="-142.1524"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Pachacacha River, the" label="Pachacacha River">
+        <attvalues>
+          <attvalue for="heldby" value="Ashtan"/>
+        </attvalues>
+        <viz:size value="8.333334"/>
+        <viz:position x="-363.5908" y="-99.868195"/>
+        <viz:color r="128" g="0" b="128"/>
+      </node>
+      <node id="Aerinewild, the" label="Aerinewild">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-627.7394" y="78.642944"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Aureliana Forest, the" label="Aureliana Forest">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="7.666667"/>
+        <viz:position x="-572.31177" y="59.81111"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Bitterfork" label="Bitterfork">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-426.74857" y="661.5322"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Dardanic Plains, the" label="Dardanic Plains">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="-350.42255" y="623.3632"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+      <node id="Vashnar Mountains, the" label="Vashnar Mountains">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="8.333334"/>
+        <viz:position x="-674.5479" y="-291.92368"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Aalen Forest, the" label="Aalen Forest">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="-686.1001" y="-456.76086"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Dakhota Hills, the" label="Dakhota Hills">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="9.666666"/>
+        <viz:position x="-574.91473" y="-126.05391"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Dun Valley" label="Dun Valley">
+        <attvalues>
+          <attvalue for="heldby" value="Cyrene"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-619.07086" y="-312.49094"/>
+        <viz:color r="0" g="128" b="128"/>
+      </node>
+      <node id="Thraasi Foothills" label="Thraasi Foothills">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-741.473" y="-346.78296"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Hashan, the City of" label="Hashan">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="30.747406" y="436.81546"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+      <node id="Shamtota Hills, the (West)" label="Shamtota Hills">
+        <attvalues>
+          <attvalue for="heldby" value="Cyrene"/>
+        </attvalues>
+        <viz:size value="8.333334"/>
+        <viz:position x="-319.15173" y="-164.16313"/>
+        <viz:color r="0" g="128" b="128"/>
+      </node>
+      <node id="Granite Hills, the" label="Granite Hills">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="8.333334"/>
+        <viz:position x="-434.8495" y="519.0782"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+      <node id="Northern Plains" label="Northern Plains">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="-232.59511" y="539.9448"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+      <node id="Northern Wilderness" label="Northern Wilderness">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="10.333334"/>
+        <viz:position x="-163.00844" y="492.64102"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+      <node id="Urubamba River, the" label="Urubamba River">
+        <attvalues>
+          <attvalue for="heldby" value="Ashtan"/>
+        </attvalues>
+        <viz:size value="9.666666"/>
+        <viz:position x="-522.8408" y="133.4397"/>
+        <viz:color r="128" g="0" b="128"/>
+      </node>
+      <node id="Shastaan" label="Shastaan">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="227.83476" y="70.061005"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Eastern Shore, the" label="Eastern Shore">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="236.98518" y="185.07915"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Maim's Mansion" label="Maim's Mansion">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-743.46747" y="268.73203"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="New Thera, the Village of" label="New Thera">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="7.666667"/>
+        <viz:position x="-687.548" y="205.72777"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Vashnar Mountains, the (North)" label="N. Vashnar Mountains">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="8.333334"/>
+        <viz:position x="-932.8044" y="8.320282"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Nimick, the Village of" label="Nimick">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-154.23976" y="-54.418045"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Eastern Wilderness" label="Eastern Wilderness">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="194.57164" y="273.55923"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+      <node id="Excised Ruins of Targossas" label="Ex. Targossas">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="156.67372" y="94.09471"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Siroccian Mountains, the" label="Siroccian Mountains">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="8.333334"/>
+        <viz:position x="-88.68134" y="77.42571"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Dwarven Camp" label="Dwarven Camp">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.3333335"/>
+        <viz:position x="-189.24277" y="30.180481"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Orcish Outpost" label="Orcish Outpost">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.3333335"/>
+        <viz:position x="-197.15558" y="68.758965"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Pash Valley (East)" label="Pash Valley">
+        <attvalues>
+          <attvalue for="heldby" value="Targossas"/>
+        </attvalues>
+        <viz:size value="9.666666"/>
+        <viz:position x="-272.4786" y="-252.21877"/>
+        <viz:color r="255" g="255" b="0"/>
+      </node>
+      <node id="Bagwar's Copse" label="Bagwar's Copse">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-77.58341" y="311.4773"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Lake Narcisse" label="Lake Narcisse">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-141.77342" y="386.71976"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Jaru" label="Jaru">
+        <attvalues>
+          <attvalue for="heldby" value="Targossas"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="-224.75545" y="-317.83588"/>
+        <viz:color r="255" g="255" b="0"/>
+      </node>
+      <node id="Great Southern Road" label="Great Southern Road">
+        <attvalues>
+          <attvalue for="heldby" value="Cyrene"/>
+        </attvalues>
+        <viz:size value="9.666666"/>
+        <viz:position x="-346.71875" y="-420.96933"/>
+        <viz:color r="0" g="128" b="128"/>
+      </node>
+      <node id="Targossas" label="Targossas">
+        <attvalues>
+          <attvalue for="heldby" value="Targossas"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-159.34981" y="-274.01694"/>
+        <viz:color r="255" g="255" b="0"/>
+      </node>
+      <node id="Tomacula" label="Tomacula">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-504.56995" y="-20.873798"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Creville Asylum" label="Creville Asylum">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-977.6183" y="68.9619"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Harae, the Isle of" label="Harae">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-926.814" y="-38.276638"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Xhaiden Dale" label="Xhaiden Dale">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-894.2924" y="72.69438"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Azdun Dungeon, the" label="Azdun Dungeon">
+        <attvalues>
+          <attvalue for="heldby" value="Underworld"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-574.91473" y="-181.76726"/>
+        <viz:color r="128" g="0" b="0"/>
+      </node>
+      <node id="Azdun Catacombs" label="Azdun Catacombs">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-574.91473" y="-215.66827"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Riparium" label="Riparium">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="296.2639" y="271.58774"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Belladona, the Keep of" label="Belladona's Keep">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-196.67606" y="603.7727"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Northreach, the" label="Northreach">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-325.1175" y="738.93195"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Sunderlands" label="Sunderlands">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="-54.379265" y="459.5459"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Eleusis" label="Eleusis">
+        <attvalues>
+          <attvalue for="heldby" value="Eleusis"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="104.24043" y="301.06525"/>
+        <viz:color r="0" g="255" b="0"/>
+      </node>
+      <node id="Saiha'balan Grotto" label="Saiha'balan Grotto">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-622.9965" y="-423.46265"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Lake Vundamere" label="Lake Vundamere">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-499.6231" y="7.6797256"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Eastern Road, the" label="Eastern Road">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="8.333334"/>
+        <viz:position x="174.30797" y="441.13156"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+      <node id="Manusha" label="Manusha">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="242.97891" y="489.5004"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Enverren Marsh" label="Enverren Marsh">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="293.0304" y="530.2331"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Darkenwood, the" label="Darkenwood">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-441.94684" y="776.76086"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Quartz Peak" label="Quartz Peak">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-178.84926" y="-542.79486"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Vashnar Mountains, the (South)" label="S. Vashnar Mountains">
+        <attvalues>
+          <attvalue for="heldby" value="Cyrene"/>
+        </attvalues>
+        <viz:size value="8.333334"/>
+        <viz:position x="-254.27594" y="-526.094"/>
+        <viz:color r="0" g="128" b="128"/>
+      </node>
+      <node id="Kasmarkin, the City of" label="Kasmarkin">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-364.2913" y="-12.609581"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Mannaseh Swamp" label="Mannaseh Swamp">
+        <attvalues>
+          <attvalue for="heldby" value="Ashtan"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="-343.28995" y="-50.368725"/>
+        <viz:color r="128" g="0" b="128"/>
+      </node>
+      <node id="Digsite of War" label="Digsite of War">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-303.33124" y="-26.009544"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Aurick Manor" label="Aurick Manor">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="165.78535" y="637.43835"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Tasur'ke" label="Tasur'ke">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="139.18385" y="575.7084"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+      <node id="Ka'doloki, the Village of" label="Ka'doloki">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-683.12354" y="-631.0223"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Blackrock, the Halls of" label="Blackrock Halls">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-1008.67377" y="-56.750652"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Mhaldor, the City of" label="Mhaldor">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-1092.3799" y="40.43073"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Underground Lake" label="Underground Lake">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-1101.0737" y="-48.88777"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Mesmerium, the" label="Mesmerium">
+        <attvalues>
+          <attvalue for="heldby" value="Ashtan"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-378.0799" y="176.78531"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Genji, the Village of" label="Genji">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-330.01202" y="-494.50873"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Rhodestrian Settlement" label="Rhodestrian Settlement">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-327.90567" y="-567.2984"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Sea Lion Cove" label="Sea Lion Cove">
+        <attvalues>
+          <attvalue for="heldby" value="Cyrene"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-248.1854" y="-637.24927"/>
+        <viz:color r="0" g="128" b="128"/>
+      </node>
+      <node id="Goblin Village, the" label="Goblin Village">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-544.6086" y="-94.34428"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Tir Murann" label="Tir Murann">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-519.6964" y="-145.6647"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Black Forest, the" label="Black Forest">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="7.666667"/>
+        <viz:position x="-679.64966" y="99.55496"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Shala'jen, the Monastery of" label="Shala'jen">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-192.51485" y="-228.86105"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Halls of Battle" label="Halls of Battle">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-560.83203" y="448.4489"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Theran Underground" label="Theran Underground">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-740.59314" y="165.97923"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Cyrene Road" label="Cyrene Road">
+        <attvalues>
+          <attvalue for="heldby" value="Cyrene"/>
+        </attvalues>
+        <viz:size value="7.666667"/>
+        <viz:position x="-418.38538" y="-539.1007"/>
+        <viz:color r="0" g="128" b="128"/>
+      </node>
+      <node id="Actar, the Valley of" label="Actar">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-436.35226" y="-495.1276"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Chapel of All Gods" label="Chapel of All Gods">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-289.60974" y="272.04535"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="Petra, the Village of" label="Petra">
+        <attvalues>
+          <attvalue for="heldby" value="Ashtan"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-428.59283" y="446.23752"/>
+        <viz:color r="128" g="0" b="128"/>
+      </node>
+      <node id="Bog of Ashtan" label="Bog of Ashtan">
+        <attvalues>
+          <attvalue for="heldby" value="Ashtan"/>
+        </attvalues>
+        <viz:size value="7.333333"/>
+        <viz:position x="-352.79562" y="370.7901"/>
+        <viz:color r="128" g="0" b="128"/>
+      </node>
+      <node id="Den of the quisalis" label="Den of the Quisalis">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-788.1346" y="119.10064"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Green Lake" label="Green Lake">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="6.3333335"/>
+        <viz:position x="-199.32928" y="199.81621"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Qurnok, the Village of" label="Qurnok">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-199.32928" y="156.66878"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Ashtan, the City of" label="Ashtan">
+        <attvalues>
+          <attvalue for="heldby" value="Ashtan"/>
+        </attvalues>
+        <viz:size value="20.0"/>
+        <viz:position x="-341.30396" y="434.60272"/>
+        <viz:color r="128" g="0" b="128"/>
+      </node>
+      <node id="Forest Watch" label="Forest Watch">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="75.42052" y="398.27835"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="Piraeus, Mount" label="Piraeus">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-430.1645" y="-456.61987"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="4" label="Beastlords">
+        <attvalues>
+          <attvalue for="heldby" value="Mhaldor"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-679.3212" y="29.131367"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="7" label="Caer Witrin">
+        <attvalues>
+          <attvalue for="heldby" value="None"/>
+        </attvalues>
+        <viz:size value="5.6666665"/>
+        <viz:position x="-478.89038" y="-515.7915"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="9" label="E. Pachacacha">
+        <attvalues>
+          <attvalue for="heldby" value="Targossas"/>
+        </attvalues>
+        <viz:size value="8.333334"/>
+        <viz:position x="-229.75116" y="-139.5438"/>
+        <viz:color r="255" g="255" b="0"/>
+      </node>
+      <node id="11" label="S. Zaphar">
+        <attvalues>
+          <attvalue for="heldby" value="Hashan"/>
+        </attvalues>
+        <viz:size value="9.666666"/>
+        <viz:position x="10.889469" y="172.47145"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Ghezavat Commune" target="Mhojave Desert, the (Central)"/>
+      <edge id="2" source="Mhojave Desert, the (Central)" target="Ghezavat Commune"/>
+      <edge id="367" source="1" target="2"/>
+      <edge id="5" source="Mhojave Desert, the (Central)" target="Ruins of the Erisian Pyramid"/>
+      <edge id="6" source="Mhojave Desert, the (Central)" target="Savannah, the (Central)"/>
+      <edge id="10" source="Zaphar River, the" target="Eastern Ithmia, the"/>
+      <edge id="12" source="Zaphar River, the" target="Northern Ithmia, the"/>
+      <edge id="15" source="Zaphar River, the" target="Western Ithmia, the"/>
+      <edge id="362" source="Dakhota Hills, the" target="Mhojave Desert, the (Central)"/>
+      <edge id="17" source="Muurn Lake" target="Cyrene, the City of"/>
+      <edge id="18" source="Muurn Lake" target="Muurn River Valley"/>
+      <edge id="20" source="Peshwar Delta" target="Isle of New Hope"/>
+      <edge id="411" source="9" target="Pash Valley (East)"/>
+      <edge id="22" source="Peshwar Delta" target="Southern Wilderness"/>
+      <edge id="25" source="Aerinewild, the" target="Aureliana Forest, the"/>
+      <edge id="27" source="Bitterfork" target="Dardanic Plains, the"/>
+      <edge id="28" source="Vashnar Mountains, the" target="Aalen Forest, the"/>
+      <edge id="29" source="Vashnar Mountains, the" target="Dakhota Hills, the"/>
+      <edge id="30" source="Vashnar Mountains, the" target="Dun Valley"/>
+      <edge id="32" source="Vashnar Mountains, the" target="Savannah, the (Central)"/>
+      <edge id="33" source="Vashnar Mountains, the" target="Thraasi Foothills"/>
+      <edge id="38" source="Granite Hills, the" target="Dardanic Plains, the"/>
+      <edge id="39" source="Granite Hills, the" target="Northern Plains"/>
+      <edge id="40" source="Granite Hills, the" target="Northern Wilderness"/>
+      <edge id="41" source="Granite Hills, the" target="Sangre Plains, the"/>
+      <edge id="42" source="Granite Hills, the" target="Urubamba River, the"/>
+      <edge id="43" source="Shastaan" target="Eastern Reaches"/>
+      <edge id="44" source="Shastaan" target="Eastern Shore, the"/>
+      <edge id="45" source="Shastaan" target="Southern Wilderness"/>
+      <edge id="46" source="Maim's Mansion" target="New Thera, the Village of"/>
+      <edge id="47" source="Eastern Shore, the" target="Eastern Reaches"/>
+      <edge id="48" source="Eastern Shore, the" target="Shastaan"/>
+      <edge id="51" source="Eastern Reaches" target="Eastern Shore, the"/>
+      <edge id="52" source="Eastern Reaches" target="Eastern Wilderness"/>
+      <edge id="53" source="Eastern Reaches" target="Excised Ruins of Targossas"/>
+      <edge id="54" source="Eastern Reaches" target="Shastaan"/>
+      <edge id="55" source="Eastern Reaches" target="Southern Wilderness"/>
+      <edge id="57" source="Siroccian Mountains, the" target="Central Wilderness"/>
+      <edge id="58" source="Siroccian Mountains, the" target="Dwarven Camp"/>
+      <edge id="59" source="Siroccian Mountains, the" target="Nimick, the Village of"/>
+      <edge id="60" source="Siroccian Mountains, the" target="Orcish Outpost"/>
+      <edge id="375" source="Pash Valley (East)" target="Shala'jen, the Monastery of"/>
+      <edge id="62" source="Siroccian Mountains, the" target="Southern Wilderness"/>
+      <edge id="66" source="Western Ithmia, the" target="Bagwar's Copse"/>
+      <edge id="67" source="Western Ithmia, the" target="Central Wilderness"/>
+      <edge id="68" source="Western Ithmia, the" target="Lake Narcisse"/>
+      <edge id="69" source="Western Ithmia, the" target="Northern Ithmia, the"/>
+      <edge id="70" source="Western Ithmia, the" target="Northern Wilderness"/>
+      <edge id="71" source="Western Ithmia, the" target="Zaphar River, the"/>
+      <edge id="72" source="Jaru" target="Great Southern Road"/>
+      <edge id="73" source="Jaru" target="Pash Valley (East)"/>
+      <edge id="74" source="Jaru" target="Targossas"/>
+      <edge id="75" source="Tomacula" target="Savannah, the (Central)"/>
+      <edge id="78" source="Vashnar Mountains, the (North)" target="Creville Asylum"/>
+      <edge id="79" source="Vashnar Mountains, the (North)" target="Harae, the Isle of"/>
+      <edge id="80" source="Vashnar Mountains, the (North)" target="Mhaldor Isle"/>
+      <edge id="82" source="Vashnar Mountains, the (North)" target="Savannah, the (Central)"/>
+      <edge id="83" source="Vashnar Mountains, the (North)" target="Xhaiden Dale"/>
+      <edge id="84" source="Azdun Dungeon, the" target="Azdun Catacombs"/>
+      <edge id="85" source="Riparium" target="Eastern Wilderness"/>
+      <edge id="86" source="Northern Plains" target="Belladona, the Keep of"/>
+      <edge id="87" source="Northern Plains" target="Granite Hills, the"/>
+      <edge id="88" source="Northern Plains" target="Northern Wilderness"/>
+      <edge id="91" source="Sunderlands" target="Hashan, the City of"/>
+      <edge id="92" source="Sunderlands" target="Northern Ithmia, the"/>
+      <edge id="93" source="Sunderlands" target="Northern Wilderness"/>
+      <edge id="95" source="Eleusis" target="Eastern Ithmia, the"/>
+      <edge id="96" source="Eleusis" target="Zaphar River, the"/>
+      <edge id="98" source="Aalen Forest, the" target="Muurn River Valley"/>
+      <edge id="99" source="Aalen Forest, the" target="Saiha'balan Grotto"/>
+      <edge id="100" source="Aalen Forest, the" target="Vashnar Mountains, the"/>
+      <edge id="101" source="Lake Vundamere" target="Savannah, the (Central)"/>
+      <edge id="102" source="Eastern Wilderness" target="Eastern Reaches"/>
+      <edge id="103" source="Eastern Wilderness" target="Eastern Road, the"/>
+      <edge id="104" source="Eastern Wilderness" target="Riparium"/>
+      <edge id="105" source="Isle of New Hope" target="Peshwar Delta"/>
+      <edge id="106" source="Manusha" target="Enverren Marsh"/>
+      <edge id="107" source="Saiha'balan Grotto" target="Aalen Forest, the"/>
+      <edge id="110" source="Darkenwood, the" target="Northreach, the"/>
+      <edge id="111" source="Quartz Peak" target="Vashnar Mountains, the (South)"/>
+      <edge id="112" source="Kasmarkin, the City of" target="Mannaseh Swamp"/>
+      <edge id="113" source="Bagwar's Copse" target="Western Ithmia, the"/>
+      <edge id="114" source="Digsite of War" target="Mannaseh Swamp"/>
+      <edge id="116" source="Delos, the Isle of" target="Eastern Road, the"/>
+      <edge id="119" source="Targossas" target="Jaru"/>
+      <edge id="120" source="Targossas" target="Pash Valley (East)"/>
+      <edge id="121" source="Aurick Manor" target="Tasur'ke"/>
+      <edge id="122" source="Eastern Road, the" target="Delos, the Isle of"/>
+      <edge id="123" source="Eastern Road, the" target="Eastern Wilderness"/>
+      <edge id="124" source="Eastern Road, the" target="Manusha"/>
+      <edge id="125" source="Eastern Road, the" target="Northern Wilderness"/>
+      <edge id="126" source="Eastern Road, the" target="Tasur'ke"/>
+      <edge id="127" source="Ka'doloki, the Village of" target="Muurn River Valley"/>
+      <edge id="129" source="Thraasi Foothills" target="Vashnar Mountains, the"/>
+      <edge id="131" source="Mhaldor Isle" target="Blackrock, the Halls of"/>
+      <edge id="132" source="Mhaldor Isle" target="Mhaldor, the City of"/>
+      <edge id="133" source="Mhaldor Isle" target="Underground Lake"/>
+      <edge id="134" source="Mhaldor Isle" target="Vashnar Mountains, the (North)"/>
+      <edge id="136" source="Belladona, the Keep of" target="Northern Plains"/>
+      <edge id="138" source="Mesmerium, the" target="Central Wilderness"/>
+      <edge id="139" source="Mesmerium, the" target="Urubamba River, the"/>
+      <edge id="140" source="Excised Ruins of Targossas" target="Eastern Reaches"/>
+      <edge id="379" source="Great Southern Road" target="Pash Valley (East)"/>
+      <edge id="143" source="Nimick, the Village of" target="Siroccian Mountains, the"/>
+      <edge id="144" source="Vashnar Mountains, the (South)" target="Genji, the Village of"/>
+      <edge id="145" source="Vashnar Mountains, the (South)" target="Great Southern Road"/>
+      <edge id="146" source="Vashnar Mountains, the (South)" target="Quartz Peak"/>
+      <edge id="147" source="Vashnar Mountains, the (South)" target="Rhodestrian Settlement"/>
+      <edge id="148" source="Vashnar Mountains, the (South)" target="Sea Lion Cove"/>
+      <edge id="150" source="Dakhota Hills, the" target="Azdun Dungeon, the"/>
+      <edge id="151" source="Dakhota Hills, the" target="Goblin Village, the"/>
+      <edge id="369" source="Shamtota Hills, the (West)" target="Siroccian Mountains, the"/>
+      <edge id="153" source="Dakhota Hills, the" target="Pachacacha River, the"/>
+      <edge id="154" source="Dakhota Hills, the" target="Savannah, the (Central)"/>
+      <edge id="155" source="Dakhota Hills, the" target="Tir Murann"/>
+      <edge id="156" source="Dakhota Hills, the" target="Vashnar Mountains, the"/>
+      <edge id="157" source="Urubamba River, the" target="Aureliana Forest, the"/>
+      <edge id="158" source="Urubamba River, the" target="Black Forest, the"/>
+      <edge id="159" source="Urubamba River, the" target="Granite Hills, the"/>
+      <edge id="160" source="Urubamba River, the" target="Mesmerium, the"/>
+      <edge id="161" source="Urubamba River, the" target="Pachacacha River, the"/>
+      <edge id="162" source="Urubamba River, the" target="Sangre Plains, the"/>
+      <edge id="163" source="Urubamba River, the" target="Savannah, the (Central)"/>
+      <edge id="167" source="Hashan, the City of" target="Sunderlands"/>
+      <edge id="168" source="Pachacacha River, the" target="Dakhota Hills, the"/>
+      <edge id="169" source="Pachacacha River, the" target="Mannaseh Swamp"/>
+      <edge id="416" source="Peshwar Delta" target="9"/>
+      <edge id="415" source="9" target="Peshwar Delta"/>
+      <edge id="173" source="Pachacacha River, the" target="Savannah, the (Central)"/>
+      <edge id="414" source="9" target="Shamtota Hills, the (West)"/>
+      <edge id="413" source="Shamtota Hills, the (West)" target="9"/>
+      <edge id="176" source="Pachacacha River, the" target="Urubamba River, the"/>
+      <edge id="374" source="Pash Valley (East)" target="Shamtota Hills, the (West)"/>
+      <edge id="370" source="Siroccian Mountains, the" target="Shamtota Hills, the (West)"/>
+      <edge id="372" source="Nimick, the Village of" target="Shamtota Hills, the (West)"/>
+      <edge id="181" source="Dun Valley" target="Vashnar Mountains, the"/>
+      <edge id="182" source="Mhaldor, the City of" target="Mhaldor Isle"/>
+      <edge id="185" source="Halls of Battle" target="Sangre Plains, the"/>
+      <edge id="186" source="Harae, the Isle of" target="Vashnar Mountains, the (North)"/>
+      <edge id="187" source="Shamtota Hills, the (West)" target="Great Southern Road"/>
+      <edge id="410" source="Pash Valley (East)" target="9"/>
+      <edge id="365" source="1" target="Mhojave Desert, the (Central)"/>
+      <edge id="192" source="Pash Valley (East)" target="Jaru"/>
+      <edge id="409" source="9" target="Shala'jen, the Monastery of"/>
+      <edge id="378" source="Pash Valley (East)" target="Great Southern Road"/>
+      <edge id="195" source="Pash Valley (East)" target="Southern Wilderness"/>
+      <edge id="196" source="Pash Valley (East)" target="Targossas"/>
+      <edge id="197" source="Black Forest, the" target="Central Wilderness"/>
+      <edge id="198" source="Black Forest, the" target="New Thera, the Village of"/>
+      <edge id="199" source="Black Forest, the" target="Savannah, the (Central)"/>
+      <edge id="200" source="Black Forest, the" target="Urubamba River, the"/>
+      <edge id="210" source="Northreach, the" target="Dardanic Plains, the"/>
+      <edge id="211" source="Northreach, the" target="Darkenwood, the"/>
+      <edge id="214" source="New Thera, the Village of" target="Black Forest, the"/>
+      <edge id="215" source="New Thera, the Village of" target="Central Wilderness"/>
+      <edge id="216" source="New Thera, the Village of" target="Maim's Mansion"/>
+      <edge id="217" source="New Thera, the Village of" target="Theran Underground"/>
+      <edge id="218" source="Sea Lion Cove" target="Vashnar Mountains, the (South)"/>
+      <edge id="219" source="Southern Wilderness" target="Central Wilderness"/>
+      <edge id="220" source="Southern Wilderness" target="Eastern Reaches"/>
+      <edge id="222" source="Southern Wilderness" target="Shastaan"/>
+      <edge id="223" source="Southern Wilderness" target="Siroccian Mountains, the"/>
+      <edge id="225" source="Cyrene, the City of" target="Cyrene Road"/>
+      <edge id="230" source="Cyrene, the City of" target="Muurn Lake"/>
+      <edge id="231" source="Genji, the Village of" target="Vashnar Mountains, the (South)"/>
+      <edge id="232" source="Actar, the Valley of" target="Cyrene Road"/>
+      <edge id="233" source="Chapel of All Gods" target="Central Wilderness"/>
+      <edge id="234" source="Mannaseh Swamp" target="Digsite of War"/>
+      <edge id="235" source="Mannaseh Swamp" target="Kasmarkin, the City of"/>
+      <edge id="236" source="Mannaseh Swamp" target="Pachacacha River, the"/>
+      <edge id="237" source="Northern Wilderness" target="Central Wilderness"/>
+      <edge id="238" source="Northern Wilderness" target="Eastern Road, the"/>
+      <edge id="239" source="Northern Wilderness" target="Granite Hills, the"/>
+      <edge id="240" source="Northern Wilderness" target="Northern Ithmia, the"/>
+      <edge id="241" source="Northern Wilderness" target="Northern Plains"/>
+      <edge id="242" source="Northern Wilderness" target="Sunderlands"/>
+      <edge id="243" source="Northern Wilderness" target="Tasur'ke"/>
+      <edge id="244" source="Northern Wilderness" target="Western Ithmia, the"/>
+      <edge id="246" source="Tasur'ke" target="Aurick Manor"/>
+      <edge id="247" source="Tasur'ke" target="Eastern Road, the"/>
+      <edge id="248" source="Tasur'ke" target="Northern Wilderness"/>
+      <edge id="250" source="Petra, the Village of" target="Bog of Ashtan"/>
+      <edge id="251" source="Petra, the Village of" target="Sangre Plains, the"/>
+      <edge id="252" source="Creville Asylum" target="Vashnar Mountains, the (North)"/>
+      <edge id="255" source="Blackrock, the Halls of" target="Mhaldor Isle"/>
+      <edge id="261" source="Theran Underground" target="Den of the quisalis"/>
+      <edge id="262" source="Theran Underground" target="New Thera, the Village of"/>
+      <edge id="263" source="Savannah, the (Central)" target="Aureliana Forest, the"/>
+      <edge id="264" source="Savannah, the (Central)" target="Black Forest, the"/>
+      <edge id="265" source="Savannah, the (Central)" target="Central Wilderness"/>
+      <edge id="266" source="Savannah, the (Central)" target="Dakhota Hills, the"/>
+      <edge id="268" source="Savannah, the (Central)" target="Lake Vundamere"/>
+      <edge id="269" source="Savannah, the (Central)" target="Mhojave Desert, the (Central)"/>
+      <edge id="271" source="Savannah, the (Central)" target="Pachacacha River, the"/>
+      <edge id="272" source="Savannah, the (Central)" target="Tomacula"/>
+      <edge id="273" source="Savannah, the (Central)" target="Urubamba River, the"/>
+      <edge id="274" source="Savannah, the (Central)" target="Vashnar Mountains, the"/>
+      <edge id="275" source="Savannah, the (Central)" target="Vashnar Mountains, the (North)"/>
+      <edge id="277" source="Green Lake" target="Central Wilderness"/>
+      <edge id="278" source="Green Lake" target="Qurnok, the Village of"/>
+      <edge id="408" source="Shala'jen, the Monastery of" target="9"/>
+      <edge id="282" source="Dardanic Plains, the" target="Bitterfork"/>
+      <edge id="283" source="Dardanic Plains, the" target="Granite Hills, the"/>
+      <edge id="284" source="Dardanic Plains, the" target="Northreach, the"/>
+      <edge id="285" source="Aureliana Forest, the" target="Aerinewild, the"/>
+      <edge id="286" source="Aureliana Forest, the" target="Central Wilderness"/>
+      <edge id="287" source="Aureliana Forest, the" target="Savannah, the (Central)"/>
+      <edge id="288" source="Aureliana Forest, the" target="Urubamba River, the"/>
+      <edge id="290" source="Muurn River Valley" target="Aalen Forest, the"/>
+      <edge id="291" source="Muurn River Valley" target="Ka'doloki, the Village of"/>
+      <edge id="292" source="Muurn River Valley" target="Muurn Lake"/>
+      <edge id="373" source="Shamtota Hills, the (West)" target="Pash Valley (East)"/>
+      <edge id="296" source="Lake Narcisse" target="Western Ithmia, the"/>
+      <edge id="297" source="Eastern Ithmia, the" target="Eleusis"/>
+      <edge id="298" source="Eastern Ithmia, the" target="Northern Ithmia, the"/>
+      <edge id="299" source="Eastern Ithmia, the" target="Zaphar River, the"/>
+      <edge id="371" source="Shamtota Hills, the (West)" target="Nimick, the Village of"/>
+      <edge id="302" source="Adryn's Keep" target="Eastern Shore, the"/>
+      <edge id="304" source="Forest Watch" target="Northern Ithmia, the"/>
+      <edge id="305" source="Cyrene Road" target="Actar, the Valley of"/>
+      <edge id="306" source="Cyrene Road" target="Cyrene, the City of"/>
+      <edge id="307" source="Cyrene Road" target="Great Southern Road"/>
+      <edge id="308" source="Qurnok, the Village of" target="Green Lake"/>
+      <edge id="311" source="Sangre Plains, the" target="Granite Hills, the"/>
+      <edge id="312" source="Sangre Plains, the" target="Halls of Battle"/>
+      <edge id="361" source="Mhojave Desert, the (Central)" target="Dakhota Hills, the"/>
+      <edge id="314" source="Sangre Plains, the" target="Petra, the Village of"/>
+      <edge id="363" source="Mhojave Desert, the (Central)" target="Great Southern Road"/>
+      <edge id="316" source="Sangre Plains, the" target="Urubamba River, the"/>
+      <edge id="364" source="Great Southern Road" target="Mhojave Desert, the (Central)"/>
+      <edge id="318" source="Xhaiden Dale" target="Vashnar Mountains, the (North)"/>
+      <edge id="319" source="Central Wilderness" target="Aureliana Forest, the"/>
+      <edge id="320" source="Central Wilderness" target="Black Forest, the"/>
+      <edge id="321" source="Central Wilderness" target="Bog of Ashtan"/>
+      <edge id="323" source="Central Wilderness" target="Chapel of All Gods"/>
+      <edge id="324" source="Central Wilderness" target="Delos, the Isle of"/>
+      <edge id="325" source="Central Wilderness" target="Green Lake"/>
+      <edge id="326" source="Central Wilderness" target="Mesmerium, the"/>
+      <edge id="329" source="Central Wilderness" target="New Thera, the Village of"/>
+      <edge id="330" source="Central Wilderness" target="Northern Wilderness"/>
+      <edge id="331" source="Central Wilderness" target="Savannah, the (Central)"/>
+      <edge id="332" source="Central Wilderness" target="Siroccian Mountains, the"/>
+      <edge id="333" source="Central Wilderness" target="Southern Wilderness"/>
+      <edge id="334" source="Central Wilderness" target="Western Ithmia, the"/>
+      <edge id="336" source="Ruins of the Erisian Pyramid" target="Mhojave Desert, the (Central)"/>
+      <edge id="366" source="Mhojave Desert, the (Central)" target="1"/>
+      <edge id="339" source="Great Southern Road" target="Cyrene Road"/>
+      <edge id="340" source="Great Southern Road" target="Jaru"/>
+      <edge id="343" source="Great Southern Road" target="Piraeus, Mount"/>
+      <edge id="344" source="Great Southern Road" target="Shamtota Hills, the (West)"/>
+      <edge id="345" source="Great Southern Road" target="Vashnar Mountains, the (South)"/>
+      <edge id="347" source="Ashtan, the City of" target="Bog of Ashtan"/>
+      <edge id="348" source="Azdun Catacombs" target="Azdun Dungeon, the"/>
+      <edge id="349" source="Northern Ithmia, the" target="Eastern Ithmia, the"/>
+      <edge id="350" source="Northern Ithmia, the" target="Forest Watch"/>
+      <edge id="351" source="Northern Ithmia, the" target="Northern Wilderness"/>
+      <edge id="352" source="Northern Ithmia, the" target="Sunderlands"/>
+      <edge id="353" source="Northern Ithmia, the" target="Western Ithmia, the"/>
+      <edge id="354" source="Northern Ithmia, the" target="Zaphar River, the"/>
+      <edge id="355" source="Bog of Ashtan" target="Ashtan, the City of"/>
+      <edge id="357" source="Bog of Ashtan" target="Central Wilderness"/>
+      <edge id="358" source="Bog of Ashtan" target="Petra, the Village of"/>
+      <edge id="359" source="Bog of Ashtan" target="Sangre Plains, the"/>
+      <edge id="360" source="Tir Murann" target="Dakhota Hills, the"/>
+      <edge id="388" source="4" target="Savannah, the (Central)"/>
+      <edge id="389" source="Savannah, the (Central)" target="4"/>
+      <edge id="384" source="7" target="Cyrene Road"/>
+      <edge id="385" source="Cyrene Road" target="7"/>
+      <edge id="390" source="Delos, the Isle of" target="Central Wilderness"/>
+      <edge id="391" source="2" target="1"/>
+      <edge id="392" source="Den of the quisalis" target="Theran Underground"/>
+      <edge id="393" source="Underground Lake" target="Mhaldor Isle"/>
+      <edge id="394" source="Azdun Dungeon, the" target="Dakhota Hills, the"/>
+      <edge id="396" source="Goblin Village, the" target="Dakhota Hills, the"/>
+      <edge id="397" source="Piraeus, Mount" target="Great Southern Road"/>
+      <edge id="398" source="Rhodestrian Settlement" target="Vashnar Mountains, the (South)"/>
+      <edge id="399" source="Shala'jen, the Monastery of" target="Pash Valley (East)"/>
+      <edge id="400" source="Southern Wilderness" target="Pash Valley (East)"/>
+      <edge id="401" source="Southern Wilderness" target="Peshwar Delta"/>
+      <edge id="402" source="Manusha" target="Eastern Road, the"/>
+      <edge id="404" source="Enverren Marsh" target="Manusha"/>
+      <edge id="405" source="Eastern Shore, the" target="Adryn's Keep"/>
+      <edge id="406" source="Pachacacha River, the" target="9"/>
+      <edge id="407" source="9" target="Pachacacha River, the"/>
+      <edge id="417" source="11" target="Zaphar River, the"/>
+      <edge id="418" source="Zaphar River, the" target="11"/>
+      <edge id="419" source="11" target="Delos, the Isle of"/>
+      <edge id="420" source="Delos, the Isle of" target="11"/>
+      <edge id="421" source="11" target="Central Wilderness"/>
+      <edge id="422" source="Central Wilderness" target="11"/>
+      <edge id="423" source="11" target="Eastern Reaches"/>
+      <edge id="424" source="Eastern Reaches" target="11"/>
+      <edge id="425" source="11" target="Southern Wilderness"/>
+      <edge id="426" source="Southern Wilderness" target="11"/>
+      <edge id="427" source="11" target="Adryn's Keep"/>
+      <edge id="428" source="Adryn's Keep" target="11"/>
+      <edge id="429" source="11" target="Peshwar Delta"/>
+      <edge id="430" source="Peshwar Delta" target="11"/>
+      <edge id="432" source="Orcish Outpost" target="Siroccian Mountains, the"/>
+      <edge id="433" source="Dwarven Camp" target="Siroccian Mountains, the"/>
+      <edge id="436" source="Pachacacha River, the" target="Vashnar Mountains, the"/>
+      <edge id="437" source="Vashnar Mountains, the" target="Pachacacha River, the"/>
+    </edges>
+  </graph>
+</gexf>
