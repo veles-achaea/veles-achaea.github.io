@@ -284,11 +284,11 @@
       </node>
       <node id="Granite Hills, the" label="Granite Hills">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-434.8495" y="519.0782"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Northern Plains" label="Northern Plains">
         <attvalues>
