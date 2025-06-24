@@ -252,11 +252,11 @@
       </node>
       <node id="Dun Valley" label="Dun Valley">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-619.07086" y="-312.49094"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Thraasi Foothills" label="Thraasi Foothills">
         <attvalues>
