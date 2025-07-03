@@ -100,11 +100,11 @@
       </node>
       <node id="Eastern Reaches" label="Eastern Reaches">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="156.08592" y="140.21864"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Northern Ithmia, the" label="Northern Ithmia">
         <attvalues>
@@ -364,11 +364,11 @@
       </node>
       <node id="Eastern Wilderness" label="Eastern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="194.57164" y="273.55923"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Excised Ruins of Targossas" label="Ex. Targossas">
         <attvalues>
