@@ -108,11 +108,11 @@
       </node>
       <node id="Northern Ithmia, the" label="Northern Ithmia">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-4.561714" y="390.56317"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Peshwar Delta" label="Peshwar Delta">
         <attvalues>
