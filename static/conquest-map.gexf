@@ -188,11 +188,11 @@
       </node>
       <node id="Pachacacha River, the" label="Pachacacha River">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-363.5908" y="-99.868195"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Aerinewild, the" label="Aerinewild">
         <attvalues>
@@ -228,11 +228,11 @@
       </node>
       <node id="Vashnar Mountains, the" label="Vashnar Mountains">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-674.5479" y="-291.92368"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Aalen Forest, the" label="Aalen Forest">
         <attvalues>
@@ -276,11 +276,11 @@
       </node>
       <node id="Shamtota Hills, the (West)" label="Shamtota Hills">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-319.15173" y="-164.16313"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Granite Hills, the" label="Granite Hills">
         <attvalues>
@@ -340,11 +340,11 @@
       </node>
       <node id="New Thera, the Village of" label="New Thera">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-687.548" y="205.72777"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Vashnar Mountains, the (North)" label="N. Vashnar Mountains">
         <attvalues>
@@ -612,11 +612,11 @@
       </node>
       <node id="Mannaseh Swamp" label="Mannaseh Swamp">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-343.28995" y="-50.368725"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Digsite of War" label="Digsite of War">
         <attvalues>
