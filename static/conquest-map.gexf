@@ -28,11 +28,11 @@
       </node>
       <node id="Southern Wilderness" label="Southern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="10.333334"/>
         <viz:position x="37.984085" y="35.81664"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="1" label="Moghedu">
         <attvalues>
@@ -102,7 +102,7 @@
         <attvalues>
           <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
-        <viz:size value="9.0"/>
+        <viz:size value="9.0"/
         <viz:position x="156.08592" y="140.21864"/>
         <viz:color r="0" g="255" b="0"/>
       </node>
