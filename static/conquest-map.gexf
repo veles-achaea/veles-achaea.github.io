@@ -102,7 +102,7 @@
         <attvalues>
           <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
-        <viz:size value="9.0"/
+        <viz:size value="9.0"/>
         <viz:position x="156.08592" y="140.21864"/>
         <viz:color r="0" g="255" b="0"/>
       </node>
