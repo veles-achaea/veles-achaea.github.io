@@ -680,7 +680,7 @@
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-378.0799" y="176.78531"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Genji, the Village of" label="Genji">
         <attvalues>
