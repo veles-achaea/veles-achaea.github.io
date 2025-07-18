@@ -288,7 +288,7 @@
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-434.8495" y="519.0782"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Northern Plains" label="Northern Plains">
         <attvalues>
