@@ -340,11 +340,11 @@
       </node>
       <node id="New Thera, the Village of" label="New Thera">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-687.548" y="205.72777"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Vashnar Mountains, the (North)" label="N. Vashnar Mountains">
         <attvalues>
