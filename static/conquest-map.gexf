@@ -263,7 +263,7 @@
           <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="8.333334"/>
-        <viz:position x="-837.15" y="-169.25"/>
+        <viz:position x="-820" y="-150"/>
         <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Hashan, the City of" label="Hashan">
@@ -1179,6 +1179,7 @@
       <edge id="436" source="Pachacacha River, the" target="Vashnar Mountains, the"/>
       <edge id="437" source="Vashnar Mountains, the" target="Pachacacha River, the"/>
       <edge id="438" source="Vashnar Mountains, the (North)" target="Thraasi Foothills"/>
+      <edge id="439" source="Thraasi Foothills" target="Vashnar Mountains, the (North)"/>
     </edges>
   </graph>
 </gexf>
