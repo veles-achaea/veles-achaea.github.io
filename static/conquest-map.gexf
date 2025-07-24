@@ -262,8 +262,8 @@
         <attvalues>
           <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
-        <viz:size value="5.6666665"/>
-        <viz:position x="-741.473" y="-346.78296"/>
+        <viz:size value="8.333334"/>
+        <viz:position x="-837.15" y="-169.25"/>
         <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Hashan, the City of" label="Hashan">
