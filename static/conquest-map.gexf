@@ -100,19 +100,19 @@
       </node>
       <node id="Eastern Reaches" label="Eastern Reaches">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="156.08592" y="140.21864"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Northern Ithmia, the" label="Northern Ithmia">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-4.561714" y="390.56317"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Peshwar Delta" label="Peshwar Delta">
         <attvalues>
@@ -124,11 +124,11 @@
       </node>
       <node id="Western Ithmia, the" label="Western Ithmia">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-88.93239" y="366.82654"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="2" label="Digsite of Husks">
         <attvalues>
@@ -148,11 +148,11 @@
       </node>
       <node id="Muurn Lake" label="Muurn Lake">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-583.80615" y="-632.59094"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Cyrene, the City of" label="Cyrene">
         <attvalues>
@@ -260,11 +260,11 @@
       </node>
       <node id="Thraasi Foothills" label="Thraasi Foothills">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-741.473" y="-346.78296"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Hashan, the City of" label="Hashan">
         <attvalues>
@@ -380,11 +380,11 @@
       </node>
       <node id="Siroccian Mountains, the" label="Siroccian Mountains">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-88.68134" y="77.42571"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Dwarven Camp" label="Dwarven Camp">
         <attvalues>
@@ -476,11 +476,11 @@
       </node>
       <node id="Xhaiden Dale" label="Xhaiden Dale">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-894.2924" y="72.69438"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Azdun Dungeon, the" label="Azdun Dungeon">
         <attvalues>
@@ -700,11 +700,11 @@
       </node>
       <node id="Sea Lion Cove" label="Sea Lion Cove">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-248.1854" y="-637.24927"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Goblin Village, the" label="Goblin Village">
         <attvalues>
@@ -780,11 +780,11 @@
       </node>
       <node id="Petra, the Village of" label="Petra">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-428.59283" y="446.23752"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Bog of Ashtan" label="Bog of Ashtan">
         <attvalues>
@@ -1178,6 +1178,7 @@
       <edge id="433" source="Dwarven Camp" target="Siroccian Mountains, the"/>
       <edge id="436" source="Pachacacha River, the" target="Vashnar Mountains, the"/>
       <edge id="437" source="Vashnar Mountains, the" target="Pachacacha River, the"/>
+      <edge id="438" source="Vashnar Mountains, the (North)" target="Thraasi Foothills"/>
     </edges>
   </graph>
 </gexf>
