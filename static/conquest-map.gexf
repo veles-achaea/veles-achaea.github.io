@@ -124,11 +124,11 @@
       </node>
       <node id="Western Ithmia, the" label="Western Ithmia">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-88.93239" y="366.82654"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="2" label="Digsite of Husks">
         <attvalues>
