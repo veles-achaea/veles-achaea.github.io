@@ -220,11 +220,11 @@
       </node>
       <node id="Dardanic Plains, the" label="Dardanic Plains">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-350.42255" y="623.3632"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="128" b="0"/>
       </node>
       <node id="Vashnar Mountains, the" label="Vashnar Mountains">
         <attvalues>
