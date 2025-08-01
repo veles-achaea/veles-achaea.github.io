@@ -966,7 +966,7 @@
       <edge id="122" source="Eastern Road, the" target="Delos, the Isle of"/>
       <edge id="123" source="Eastern Road, the" target="Eastern Wilderness"/>
       <edge id="124" source="Eastern Road, the" target="Manusha"/>
-      <!-- <edge id="125" source="Eastern Road, the" target="Northern Wilderness"/> -->
+      <edge id="125" source="Eastern Road, the" target="Northern Wilderness"/>
       <edge id="126" source="Eastern Road, the" target="Tasur'ke"/>
       <edge id="127" source="Ka'doloki, the Village of" target="Muurn River Valley"/>
       <edge id="129" source="Thraasi Foothills" target="Vashnar Mountains, the"/>
@@ -1047,7 +1047,7 @@
       <edge id="235" source="Mannaseh Swamp" target="Kasmarkin, the City of"/>
       <edge id="236" source="Mannaseh Swamp" target="Pachacacha River, the"/>
       <edge id="237" source="Northern Wilderness" target="Central Wilderness"/>
-      <!-- <edge id="238" source="Northern Wilderness" target="Eastern Road, the"/> -->
+      <edge id="238" source="Northern Wilderness" target="Eastern Road, the"/>
       <edge id="239" source="Northern Wilderness" target="Granite Hills, the"/>
       <edge id="240" source="Northern Wilderness" target="Northern Ithmia, the"/>
       <edge id="241" source="Northern Wilderness" target="Northern Plains"/>
