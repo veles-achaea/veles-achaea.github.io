@@ -516,11 +516,11 @@
       </node>
       <node id="Northreach, the" label="Northreach">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-325.1175" y="738.93195"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="128" b="0"/>
       </node>
       <node id="Sunderlands" label="Sunderlands">
         <attvalues>
