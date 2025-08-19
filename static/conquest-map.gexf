@@ -788,11 +788,11 @@
       </node>
       <node id="Bog of Ashtan" label="Bog of Ashtan">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="7.333333"/>
         <viz:position x="-352.79562" y="370.7901"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Den of the quisalis" label="Den of the Quisalis">
         <attvalues>
