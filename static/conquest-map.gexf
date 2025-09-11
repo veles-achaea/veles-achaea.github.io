@@ -20,11 +20,11 @@
       </node>
       <node id="Mhojave Desert, the (Central)" label="Mhojave">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-456.34305" y="-225.15671"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Southern Wilderness" label="Southern Wilderness">
         <attvalues>
@@ -44,11 +44,11 @@
       </node>
       <node id="Ruins of the Erisian Pyramid" label="Erisian Pyramid">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-401.1484" y="-209.92174"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Savannah, the (Central)" label="Savannah">
         <attvalues>
@@ -172,11 +172,11 @@
       </node>
       <node id="Mhaldor Isle" label="Mhaldor Isle">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-1011.4326" y="0.8718147"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Isle of New Hope" label="Isle of New Hope">
         <attvalues>
@@ -188,11 +188,11 @@
       </node>
       <node id="Pachacacha River, the" label="Pachacacha River">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-363.5908" y="-99.868195"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Aerinewild, the" label="Aerinewild">
         <attvalues>
@@ -244,11 +244,11 @@
       </node>
       <node id="Dakhota Hills, the" label="Dakhota Hills">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-574.91473" y="-126.05391"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Dun Valley" label="Dun Valley">
         <attvalues>
@@ -308,11 +308,11 @@
       </node>
       <node id="Urubamba River, the" label="Urubamba River">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-522.8408" y="133.4397"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="128" g="128" b="0"/>
       </node>
       <node id="Shastaan" label="Shastaan">
         <attvalues>
@@ -628,11 +628,11 @@
       </node>
       <node id="Aurick Manor" label="Aurick Manor">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Hashan"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="165.78535" y="637.43835"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="128" b="0"/>
       </node>
       <node id="Tasur'ke" label="Tasur'ke">
         <attvalues>
@@ -788,11 +788,11 @@
       </node>
       <node id="Bog of Ashtan" label="Bog of Ashtan">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="7.333333"/>
         <viz:position x="-352.79562" y="370.7901"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Den of the quisalis" label="Den of the Quisalis">
         <attvalues>
