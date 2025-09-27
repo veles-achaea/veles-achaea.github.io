@@ -140,11 +140,11 @@
       </node>
       <node id="Sangre Plains, the" label="Sangre Plains">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="8.0"/>
         <viz:position x="-530.92426" y="391.73462"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Muurn Lake" label="Muurn Lake">
         <attvalues>
