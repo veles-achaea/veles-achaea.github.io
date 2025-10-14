@@ -292,11 +292,11 @@
       </node>
       <node id="Northern Plains" label="Northern Plains">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-232.59511" y="539.9448"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Northern Wilderness" label="Northern Wilderness">
         <attvalues>
