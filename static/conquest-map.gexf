@@ -844,11 +844,11 @@
       </node>
       <node id="4" label="Beastlords">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-679.3212" y="29.131367"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="7" label="Caer Witrin">
         <attvalues>
