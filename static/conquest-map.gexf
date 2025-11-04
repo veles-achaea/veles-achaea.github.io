@@ -52,11 +52,11 @@
       </node>
       <node id="Savannah, the (Central)" label="Savannah">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="13.666667"/>
         <viz:position x="-579.27716" y="-17.842434"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Zaphar River, the" label="Zaphar">
         <attvalues>
