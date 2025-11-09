@@ -244,11 +244,11 @@
       </node>
       <node id="Dakhota Hills, the" label="Dakhota Hills">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-574.91473" y="-126.05391"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Dun Valley" label="Dun Valley">
         <attvalues>
@@ -788,7 +788,7 @@
       </node>
       <node id="Bog of Ashtan" label="Bog of Ashtan">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="7.333333"/>
         <viz:position x="-352.79562" y="370.7901"/>
