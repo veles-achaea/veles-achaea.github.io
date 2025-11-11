@@ -612,11 +612,11 @@
       </node>
       <node id="Mannaseh Swamp" label="Mannaseh Swamp">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-343.28995" y="-50.368725"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Digsite of War" label="Digsite of War">
         <attvalues>
