@@ -244,11 +244,11 @@
       </node>
       <node id="Dakhota Hills, the" label="Dakhota Hills">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-574.91473" y="-126.05391"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Dun Valley" label="Dun Valley">
         <attvalues>
@@ -652,11 +652,11 @@
       </node>
       <node id="Blackrock, the Halls of" label="Blackrock Halls">
         <attvalues>
-          <attvalue for="heldby" value="Mhaldor"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-1008.67377" y="-56.750652"/>
-        <viz:color r="255" g="0" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Mhaldor, the City of" label="Mhaldor">
         <attvalues>
