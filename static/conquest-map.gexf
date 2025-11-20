@@ -148,11 +148,11 @@
       </node>
       <node id="Muurn Lake" label="Muurn Lake">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-583.80615" y="-632.59094"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Cyrene, the City of" label="Cyrene">
         <attvalues>
