@@ -756,11 +756,11 @@
       </node>
       <node id="Cyrene Road" label="Cyrene Road">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-418.38538" y="-539.1007"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Actar, the Valley of" label="Actar">
         <attvalues>
