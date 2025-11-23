@@ -340,11 +340,11 @@
       </node>
       <node id="New Thera, the Village of" label="New Thera">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-687.548" y="205.72777"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Vashnar Mountains, the (North)" label="N. Vashnar Mountains">
         <attvalues>
@@ -388,11 +388,11 @@
       </node>
       <node id="Dwarven Camp" label="Dwarven Camp">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="5.3333335"/>
         <viz:position x="-189.24277" y="30.180481"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Orcish Outpost" label="Orcish Outpost">
         <attvalues>
@@ -604,11 +604,11 @@
       </node>
       <node id="Kasmarkin, the City of" label="Kasmarkin">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-364.2913" y="-12.609581"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Mannaseh Swamp" label="Mannaseh Swamp">
         <attvalues>
@@ -676,11 +676,11 @@
       </node>
       <node id="Mesmerium, the" label="Mesmerium">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-378.0799" y="176.78531"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Genji, the Village of" label="Genji">
         <attvalues>
