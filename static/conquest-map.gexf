@@ -20,11 +20,11 @@
       </node>
       <node id="Mhojave Desert, the (Central)" label="Mhojave">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-456.34305" y="-225.15671"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Southern Wilderness" label="Southern Wilderness">
         <attvalues>
