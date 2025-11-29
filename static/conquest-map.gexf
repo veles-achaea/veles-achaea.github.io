@@ -564,11 +564,11 @@
       </node>
       <node id="Manusha" label="Manusha">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="242.97891" y="489.5004"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Enverren Marsh" label="Enverren Marsh">
         <attvalues>
