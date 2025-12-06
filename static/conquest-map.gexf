@@ -244,11 +244,11 @@
       </node>
       <node id="Dakhota Hills, the" label="Dakhota Hills">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-574.91473" y="-126.05391"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Dun Valley" label="Dun Valley">
         <attvalues>
@@ -556,11 +556,11 @@
       </node>
       <node id="Eastern Road, the" label="Eastern Road">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="174.30797" y="441.13156"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Manusha" label="Manusha">
         <attvalues>
@@ -708,11 +708,11 @@
       </node>
       <node id="Goblin Village, the" label="Goblin Village">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-544.6086" y="-94.34428"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Tir Murann" label="Tir Murann">
         <attvalues>
