@@ -76,11 +76,11 @@
       </node>
       <node id="Central Wilderness" label="Central Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="15.0"/>
         <viz:position x="-199.32928" y="245.6358"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Delos, the Isle of" label="Delos">
         <attvalues>
@@ -804,11 +804,11 @@
       </node>
       <node id="Green Lake" label="Green Lake">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-199.32928" y="199.81621"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Qurnok, the Village of" label="Qurnok">
         <attvalues>
