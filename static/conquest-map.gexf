@@ -780,11 +780,11 @@
       </node>
       <node id="Petra, the Village of" label="Petra">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-428.59283" y="446.23752"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Bog of Ashtan" label="Bog of Ashtan">
         <attvalues>
