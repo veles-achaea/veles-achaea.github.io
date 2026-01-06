@@ -28,11 +28,11 @@
       </node>
       <node id="Southern Wilderness" label="Southern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="10.333334"/>
         <viz:position x="37.984085" y="35.81664"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="1" label="Moghedu">
         <attvalues>
@@ -76,11 +76,11 @@
       </node>
       <node id="Central Wilderness" label="Central Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="15.0"/>
         <viz:position x="-199.32928" y="245.6358"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Delos, the Isle of" label="Delos">
         <attvalues>
@@ -100,11 +100,11 @@
       </node>
       <node id="Eastern Reaches" label="Eastern Reaches">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="156.08592" y="140.21864"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Northern Ithmia, the" label="Northern Ithmia">
         <attvalues>
@@ -116,11 +116,11 @@
       </node>
       <node id="Peshwar Delta" label="Peshwar Delta">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-83.11102" y="-59.34764"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Western Ithmia, the" label="Western Ithmia">
         <attvalues>
@@ -188,11 +188,11 @@
       </node>
       <node id="Pachacacha River, the" label="Pachacacha River">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-363.5908" y="-99.868195"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Aerinewild, the" label="Aerinewild">
         <attvalues>
@@ -276,11 +276,11 @@
       </node>
       <node id="Shamtota Hills, the (West)" label="Shamtota Hills">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-319.15173" y="-164.16313"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Granite Hills, the" label="Granite Hills">
         <attvalues>
@@ -308,27 +308,27 @@
       </node>
       <node id="Urubamba River, the" label="Urubamba River">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-522.8408" y="133.4397"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Shastaan" label="Shastaan">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="227.83476" y="70.061005"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Eastern Shore, the" label="Eastern Shore">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="236.98518" y="185.07915"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Maim's Mansion" label="Maim's Mansion">
         <attvalues>
@@ -340,35 +340,35 @@
       </node>
       <node id="New Thera, the Village of" label="New Thera">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-687.548" y="205.72777"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Vashnar Mountains, the (North)" label="N. Vashnar Mountains">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-932.8044" y="8.320282"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Nimick, the Village of" label="Nimick">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-154.23976" y="-54.418045"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Eastern Wilderness" label="Eastern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="194.57164" y="273.55923"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Excised Ruins of Targossas" label="Ex. Targossas">
         <attvalues>
@@ -380,35 +380,35 @@
       </node>
       <node id="Siroccian Mountains, the" label="Siroccian Mountains">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-88.68134" y="77.42571"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Dwarven Camp" label="Dwarven Camp">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.3333335"/>
         <viz:position x="-189.24277" y="30.180481"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Orcish Outpost" label="Orcish Outpost">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.3333335"/>
         <viz:position x="-197.15558" y="68.758965"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Pash Valley (East)" label="Pash Valley">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-272.4786" y="-252.21877"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Bagwar's Copse" label="Bagwar's Copse">
         <attvalues>
@@ -428,11 +428,11 @@
       </node>
       <node id="Jaru" label="Jaru">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-224.75545" y="-317.83588"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
@@ -468,11 +468,11 @@
       </node>
       <node id="Harae, the Isle of" label="Harae">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-926.814" y="-38.276638"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Xhaiden Dale" label="Xhaiden Dale">
         <attvalues>
@@ -556,11 +556,11 @@
       </node>
       <node id="Eastern Road, the" label="Eastern Road">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="174.30797" y="441.13156"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Manusha" label="Manusha">
         <attvalues>
@@ -604,19 +604,19 @@
       </node>
       <node id="Kasmarkin, the City of" label="Kasmarkin">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-364.2913" y="-12.609581"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Mannaseh Swamp" label="Mannaseh Swamp">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-343.28995" y="-50.368725"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Digsite of War" label="Digsite of War">
         <attvalues>
@@ -676,11 +676,11 @@
       </node>
       <node id="Mesmerium, the" label="Mesmerium">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-378.0799" y="176.78531"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Genji, the Village of" label="Genji">
         <attvalues>
@@ -732,11 +732,11 @@
       </node>
       <node id="Shala'jen, the Monastery of" label="Shala'jen">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-192.51485" y="-228.86105"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Halls of Battle" label="Halls of Battle">
         <attvalues>
@@ -860,11 +860,11 @@
       </node>
       <node id="9" label="E. Pachacacha">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-229.75116" y="-139.5438"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="11" label="S. Zaphar">
         <attvalues>
