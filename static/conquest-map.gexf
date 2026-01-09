@@ -76,11 +76,11 @@
       </node>
       <node id="Central Wilderness" label="Central Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="15.0"/>
         <viz:position x="-199.32928" y="245.6358"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Delos, the Isle of" label="Delos">
         <attvalues>
@@ -308,11 +308,11 @@
       </node>
       <node id="Urubamba River, the" label="Urubamba River">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-522.8408" y="133.4397"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Shastaan" label="Shastaan">
         <attvalues>
@@ -348,11 +348,11 @@
       </node>
       <node id="Vashnar Mountains, the (North)" label="N. Vashnar Mountains">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-932.8044" y="8.320282"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Nimick, the Village of" label="Nimick">
         <attvalues>
