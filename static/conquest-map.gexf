@@ -76,11 +76,11 @@
       </node>
       <node id="Central Wilderness" label="Central Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="15.0"/>
         <viz:position x="-199.32928" y="245.6358"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Delos, the Isle of" label="Delos">
         <attvalues>
@@ -284,11 +284,11 @@
       </node>
       <node id="Granite Hills, the" label="Granite Hills">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-434.8495" y="519.0782"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Northern Plains" label="Northern Plains">
         <attvalues>
@@ -404,11 +404,11 @@
       </node>
       <node id="Pash Valley (East)" label="Pash Valley">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-272.4786" y="-252.21877"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Bagwar's Copse" label="Bagwar's Copse">
         <attvalues>
