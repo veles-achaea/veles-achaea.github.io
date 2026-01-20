@@ -28,11 +28,11 @@
       </node>
       <node id="Southern Wilderness" label="Southern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="10.333334"/>
         <viz:position x="37.984085" y="35.81664"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="1" label="Moghedu">
         <attvalues>
@@ -276,11 +276,11 @@
       </node>
       <node id="Shamtota Hills, the (West)" label="Shamtota Hills">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-319.15173" y="-164.16313"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Granite Hills, the" label="Granite Hills">
         <attvalues>
