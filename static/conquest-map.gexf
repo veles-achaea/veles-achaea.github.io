@@ -652,11 +652,11 @@
       </node>
       <node id="Blackrock, the Halls of" label="Blackrock Halls">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-1008.67377" y="-56.750652"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Mhaldor, the City of" label="Mhaldor">
         <attvalues>
