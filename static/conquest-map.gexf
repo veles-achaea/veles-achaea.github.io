@@ -220,11 +220,11 @@
       </node>
       <node id="Dardanic Plains, the" label="Dardanic Plains">
         <attvalues>
-          <attvalue for="heldby" value="Hashan"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-350.42255" y="623.3632"/>
-        <viz:color r="128" g="128" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Vashnar Mountains, the" label="Vashnar Mountains">
         <attvalues>
@@ -364,11 +364,11 @@
       </node>
       <node id="Eastern Wilderness" label="Eastern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="194.57164" y="273.55923"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Excised Ruins of Targossas" label="Ex. Targossas">
         <attvalues>
