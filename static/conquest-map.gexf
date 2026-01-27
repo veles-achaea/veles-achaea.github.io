@@ -324,11 +324,11 @@
       </node>
       <node id="Eastern Shore, the" label="Eastern Shore">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="236.98518" y="185.07915"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Maim's Mansion" label="Maim's Mansion">
         <attvalues>
@@ -388,11 +388,11 @@
       </node>
       <node id="Dwarven Camp" label="Dwarven Camp">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="5.3333335"/>
         <viz:position x="-189.24277" y="30.180481"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Orcish Outpost" label="Orcish Outpost">
         <attvalues>
