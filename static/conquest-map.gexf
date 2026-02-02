@@ -556,11 +556,11 @@
       </node>
       <node id="Eastern Road, the" label="Eastern Road">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="174.30797" y="441.13156"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Manusha" label="Manusha">
         <attvalues>
