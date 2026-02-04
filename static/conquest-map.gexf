@@ -860,11 +860,11 @@
       </node>
       <node id="9" label="E. Pachacacha">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-229.75116" y="-139.5438"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="11" label="S. Zaphar">
         <attvalues>
