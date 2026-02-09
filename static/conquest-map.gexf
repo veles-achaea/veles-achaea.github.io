@@ -300,11 +300,11 @@
       </node>
       <node id="Northern Wilderness" label="Northern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="10.333334"/>
         <viz:position x="-163.00844" y="492.64102"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Urubamba River, the" label="Urubamba River">
         <attvalues>
