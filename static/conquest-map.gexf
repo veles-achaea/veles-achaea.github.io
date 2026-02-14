@@ -116,11 +116,11 @@
       </node>
       <node id="Peshwar Delta" label="Peshwar Delta">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-83.11102" y="-59.34764"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Western Ithmia, the" label="Western Ithmia">
         <attvalues>
@@ -212,11 +212,11 @@
       </node>
       <node id="Bitterfork" label="Bitterfork">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Asthan"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-426.74857" y="661.5322"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Dardanic Plains, the" label="Dardanic Plains">
         <attvalues>
