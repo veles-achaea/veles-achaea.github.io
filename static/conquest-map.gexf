@@ -172,11 +172,11 @@
       </node>
       <node id="Mhaldor Isle" label="Mhaldor Isle">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="Mhaldor"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-1011.4326" y="0.8718147"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="255" g="0" b="0"/>
       </node>
       <node id="Isle of New Hope" label="Isle of New Hope">
         <attvalues>
