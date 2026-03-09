@@ -644,11 +644,11 @@
       </node>
       <node id="Ka'doloki, the Village of" label="Ka'doloki">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-683.12354" y="-631.0223"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Blackrock, the Halls of" label="Blackrock Halls">
         <attvalues>
