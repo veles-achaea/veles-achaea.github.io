@@ -116,11 +116,11 @@
       </node>
       <node id="Peshwar Delta" label="Peshwar Delta">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="7.666667"/>
         <viz:position x="-83.11102" y="-59.34764"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Western Ithmia, the" label="Western Ithmia">
         <attvalues>
@@ -804,11 +804,11 @@
       </node>
       <node id="Green Lake" label="Green Lake">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-199.32928" y="199.81621"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Qurnok, the Village of" label="Qurnok">
         <attvalues>
