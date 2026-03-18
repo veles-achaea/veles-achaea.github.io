@@ -868,7 +868,7 @@
       </node>
       <node id="11" label="S. Zaphar">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="10.889469" y="172.47145"/>
