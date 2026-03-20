@@ -76,11 +76,11 @@
       </node>
       <node id="Central Wilderness" label="Central Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Ashtan"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="15.0"/>
         <viz:position x="-199.32928" y="245.6358"/>
-        <viz:color r="128" g="0" b="128"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Delos, the Isle of" label="Delos">
         <attvalues>
