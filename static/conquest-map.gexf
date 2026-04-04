@@ -1176,7 +1176,6 @@
       <edge id="430" source="Peshwar Delta" target="11"/>
       <edge id="432" source="Orcish Outpost" target="Siroccian Mountains, the"/>
       <edge id="433" source="Dwarven Camp" target="Siroccian Mountains, the"/>
-      <edge id="436" source="Pachacacha River, the" target="Vashnar Mountains, the"/>
       <edge id="437" source="Vashnar Mountains, the" target="Pachacacha River, the"/>
       <edge id="438" source="Vashnar Mountains, the (North)" target="Thraasi Foothills"/>
       <edge id="439" source="Thraasi Foothills" target="Vashnar Mountains, the (North)"/>
