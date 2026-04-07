@@ -388,11 +388,11 @@
       </node>
       <node id="Dwarven Camp" label="Dwarven Camp">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.3333335"/>
         <viz:position x="-189.24277" y="30.180481"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Orcish Outpost" label="Orcish Outpost">
         <attvalues>
