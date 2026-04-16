@@ -148,11 +148,11 @@
       </node>
       <node id="Muurn Lake" label="Muurn Lake">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-583.80615" y="-632.59094"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Cyrene, the City of" label="Cyrene">
         <attvalues>
@@ -228,11 +228,11 @@
       </node>
       <node id="Vashnar Mountains, the" label="Vashnar Mountains">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-674.5479" y="-291.92368"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Aalen Forest, the" label="Aalen Forest">
         <attvalues>
@@ -380,11 +380,11 @@
       </node>
       <node id="Siroccian Mountains, the" label="Siroccian Mountains">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-88.68134" y="77.42571"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Dwarven Camp" label="Dwarven Camp">
         <attvalues>
@@ -428,11 +428,11 @@
       </node>
       <node id="Jaru" label="Jaru">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-224.75545" y="-317.83588"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
