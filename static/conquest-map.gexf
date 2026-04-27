@@ -596,11 +596,11 @@
       </node>
       <node id="Vashnar Mountains, the (South)" label="S. Vashnar Mountains">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="8.333334"/>
         <viz:position x="-254.27594" y="-526.094"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Kasmarkin, the City of" label="Kasmarkin">
         <attvalues>
