@@ -356,11 +356,11 @@
       </node>
       <node id="Nimick, the Village of" label="Nimick">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="6.3333335"/>
         <viz:position x="-154.23976" y="-54.418045"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="Eastern Wilderness" label="Eastern Wilderness">
         <attvalues>
