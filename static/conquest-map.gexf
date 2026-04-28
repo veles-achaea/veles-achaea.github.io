@@ -428,11 +428,11 @@
       </node>
       <node id="Jaru" label="Jaru">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Targossas"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-224.75545" y="-317.83588"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="255" g="255" b="0"/>
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
@@ -708,11 +708,11 @@
       </node>
       <node id="Goblin Village, the" label="Goblin Village">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-544.6086" y="-94.34428"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Tir Murann" label="Tir Murann">
         <attvalues>
@@ -836,11 +836,11 @@
       </node>
       <node id="Piraeus, Mount" label="Piraeus">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-430.1645" y="-456.61987"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="4" label="Beastlords">
         <attvalues>
