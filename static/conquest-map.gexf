@@ -28,11 +28,11 @@
       </node>
       <node id="Southern Wilderness" label="Southern Wilderness">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="Ashtan"/>
         </attvalues>
         <viz:size value="10.333334"/>
         <viz:position x="37.984085" y="35.81664"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="128" g="0" b="128"/>
       </node>
       <node id="1" label="Moghedu">
         <attvalues>
@@ -236,11 +236,11 @@
       </node>
       <node id="Aalen Forest, the" label="Aalen Forest">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-686.1001" y="-456.76086"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Dakhota Hills, the" label="Dakhota Hills">
         <attvalues>
@@ -428,19 +428,19 @@
       </node>
       <node id="Jaru" label="Jaru">
         <attvalues>
-          <attvalue for="heldby" value="Targossas"/>
+          <attvalue for="heldby" value="None"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-224.75545" y="-317.83588"/>
-        <viz:color r="255" g="255" b="0"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="Great Southern Road" label="Great Southern Road">
         <attvalues>
-          <attvalue for="heldby" value="Cyrene"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="9.666666"/>
         <viz:position x="-346.71875" y="-420.96933"/>
-        <viz:color r="0" g="128" b="128"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Targossas" label="Targossas">
         <attvalues>
