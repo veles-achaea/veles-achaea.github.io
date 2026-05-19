@@ -604,11 +604,11 @@
       </node>
       <node id="Kasmarkin, the City of" label="Kasmarkin">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-364.2913" y="-12.609581"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Mannaseh Swamp" label="Mannaseh Swamp">
         <attvalues>
