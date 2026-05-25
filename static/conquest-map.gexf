@@ -20,11 +20,11 @@
       </node>
       <node id="Mhojave Desert, the (Central)" label="Mhojave">
         <attvalues>
-          <attvalue for="heldby" value="Eleusis"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="9.0"/>
         <viz:position x="-456.34305" y="-225.15671"/>
-        <viz:color r="0" g="255" b="0"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="Southern Wilderness" label="Southern Wilderness">
         <attvalues>
@@ -612,11 +612,11 @@
       </node>
       <node id="Mannaseh Swamp" label="Mannaseh Swamp">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Eleusis"/>
         </attvalues>
         <viz:size value="7.0"/>
         <viz:position x="-343.28995" y="-50.368725"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="255" b="0"/>
       </node>
       <node id="Digsite of War" label="Digsite of War">
         <attvalues>
