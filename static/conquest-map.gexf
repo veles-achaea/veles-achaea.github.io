@@ -836,11 +836,11 @@
       </node>
       <node id="Piraeus, Mount" label="Piraeus">
         <attvalues>
-          <attvalue for="heldby" value="None"/>
+          <attvalue for="heldby" value="Cyrene"/>
         </attvalues>
         <viz:size value="5.6666665"/>
         <viz:position x="-430.1645" y="-456.61987"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="0" g="128" b="128"/>
       </node>
       <node id="4" label="Beastlords">
         <attvalues>
